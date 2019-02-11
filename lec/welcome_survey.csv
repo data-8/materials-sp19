@@ -1,1258 +1,1450 @@
-Extroversion,Number of texters,Hours of sleep,Handedness,Pant leg order
-7,7,8,Right-handed,Right leg in first
-3,4,7,Right-handed,I don't know
-9,5,9,Right-handed,Left leg in first
-7,8,7,Right-handed,Left leg in first
-8,15,6,Right-handed,I don't know
-6,3,6.5,Right-handed,Right leg in first
-8,10,5,Right-handed,Left leg in first
-5,1,6,Right-handed,Left leg in first
-3,2,8,Right-handed,I don't know
-5,3,7,Right-handed,Right leg in first
-3,10,6,Right-handed,Right leg in first
-8,38,6,Right-handed,Right leg in first
-6,2,7,Right-handed,Left leg in first
-5,20,7,Right-handed,Right leg in first
-3,5,7,Right-handed,Right leg in first
-6,3,8,Right-handed,Left leg in first
-8,30,8,Right-handed,Right leg in first
-5,3,7,Right-handed,Right leg in first
-9,10,7,Right-handed,I don't know
-9,12,6,Right-handed,Left leg in first
-4,10,6,Right-handed,Right leg in first
-4,5,6,Right-handed,Right leg in first
-6,3,8,Right-handed,I don't know
-4,4,7,Right-handed,Left leg in first
-7,20,5,Right-handed,Left leg in first
-7,5,8,Right-handed,Right leg in first
-6,15,6,Right-handed,Right leg in first
-4,7,7,Right-handed,Right leg in first
-5,2,7,Right-handed,Left leg in first
-4,4,7,Right-handed,Right leg in first
-8,10,9,Right-handed,Left leg in first
-4,6,7,Right-handed,I don't know
-7,14,7,Right-handed,I don't know
-6,10,7,Right-handed,Right leg in first
-4,10,7,Right-handed,Right leg in first
-8,8,4,Right-handed,Left leg in first
-7,10,6,Right-handed,Right leg in first
-8,12,8,Right-handed,Right leg in first
-2,2,7,Right-handed,Right leg in first
-2,3,7,Right-handed,Right leg in first
-6,5,7,Right-handed,Right leg in first
-8,2,7,Right-handed,Right leg in first
-3,3,7,Right-handed,Right leg in first
-6,5,7,Right-handed,Right leg in first
-3,4,6,Right-handed,I don't know
-8,8,9,Right-handed,Right leg in first
-5,4,6,Right-handed,I don't know
-4,7,6,Right-handed,Left leg in first
-4,7,7,Right-handed,Left leg in first
-9,10,8,Right-handed,Right leg in first
-6,30,8,Right-handed,Right leg in first
-9,7,4,Right-handed,Right leg in first
-2,10,7,Right-handed,I don't know
-8,10,7,Left-handed,I don't know
-5,6,7,Left-handed,Right leg in first
-7,10,7,Right-handed,Left leg in first
-8,10,7,Right-handed,I don't know
-4,2,7,Right-handed,Right leg in first
-7,12,7,Right-handed,Left leg in first
-6,3,7,Right-handed,Right leg in first
-8,6,6.5,Right-handed,Right leg in first
-7,5,7,Left-handed,Right leg in first
-7,6,7,Right-handed,Right leg in first
-8,8,8,Right-handed,Right leg in first
-7,5,8,Right-handed,Right leg in first
-3,5,7,Right-handed,Left leg in first
-6,12,7,Right-handed,Right leg in first
-7,11,6,Left-handed,Right leg in first
-9,5,7,Right-handed,Right leg in first
-8,9,6.5,Right-handed,Left leg in first
-8,7,7,Left-handed,Left leg in first
-7,10,6,Right-handed,Right leg in first
-8,7,6,Right-handed,Right leg in first
-5,5,6,Right-handed,Right leg in first
-8,4,9,Right-handed,Left leg in first
-5,3,7,Right-handed,Right leg in first
-7,4,6,Left-handed,Right leg in first
-6,8,7,Ambidextrous,I don't know
-7,5,8,Right-handed,Left leg in first
-2,5,7,Right-handed,Right leg in first
-4,3,7,Right-handed,Right leg in first
-8,5,6.5,Right-handed,Left leg in first
-8,8,8,Right-handed,Left leg in first
-6,8,6.5,Right-handed,Left leg in first
-8,4,8,Right-handed,Left leg in first
-7,3,8,Right-handed,I don't know
-3,3,7,Right-handed,Right leg in first
-3,2,8,Right-handed,Right leg in first
-8,8,6,Right-handed,Right leg in first
-4,3,7,Right-handed,Right leg in first
-6,10,7,Right-handed,Left leg in first
-8,6,8,Right-handed,Left leg in first
-8,0,0,Left-handed,I don't know
-7,3,7,Right-handed,Right leg in first
-7,12,7,Right-handed,Left leg in first
-5,5,7,Right-handed,Right leg in first
-3,4,6,Left-handed,Right leg in first
-5,3,7.6,Right-handed,I don't know
-6,5,6,Right-handed,Right leg in first
-4,6,6,Right-handed,Right leg in first
-4,5,8,Right-handed,Right leg in first
-9,14,6,Right-handed,Right leg in first
-6,25,8,Right-handed,Right leg in first
-4,3,8,Right-handed,Right leg in first
-4,5,8,Right-handed,Right leg in first
-7,3,7,Right-handed,Right leg in first
-5,10,8,Right-handed,Right leg in first
-10,7,8,Left-handed,Left leg in first
-4,8,7,Right-handed,Right leg in first
-9,4,9,Right-handed,Right leg in first
-8,6,7,Right-handed,Right leg in first
-9,15,7,Right-handed,Left leg in first
-5,3,7,Left-handed,Left leg in first
-7,5,6,Right-handed,Right leg in first
-5,5,5,Left-handed,Left leg in first
-9,30,6,Right-handed,Right leg in first
-8,15,7,Right-handed,I don't know
-2,2,8,Right-handed,Right leg in first
-1,10,7,Right-handed,I don't know
-8,20,8,Right-handed,Left leg in first
-5,10,7,Right-handed,Right leg in first
-6,15,6,Right-handed,Right leg in first
-3,5,8,Left-handed,Right leg in first
-4,10,7,Right-handed,Left leg in first
-10,30,10,Right-handed,Right leg in first
-5,5,8,Right-handed,Left leg in first
-5,5,7,Left-handed,Right leg in first
-4,4,8,Right-handed,Left leg in first
-8,15,6,Right-handed,Left leg in first
-5,3,5,Left-handed,Left leg in first
-5,4,6,Right-handed,Right leg in first
-4,10,8,Left-handed,I don't know
-8,20,7.5,Right-handed,Right leg in first
-7,20,6.5,Right-handed,Right leg in first
-4,5,8,Right-handed,Right leg in first
-6,5,7.5,Right-handed,Right leg in first
-6,7,6,Left-handed,Left leg in first
-5,30,8,Right-handed,Left leg in first
-3,4,7,Right-handed,Left leg in first
-7,10,6,Right-handed,Right leg in first
-4,20,6,Right-handed,Left leg in first
-7,10,7,Right-handed,Left leg in first
-8,10,5,Right-handed,Right leg in first
-8,17,8,Right-handed,Right leg in first
-8,10,7,Right-handed,Left leg in first
-5,5,8,Right-handed,Left leg in first
-7,12,7,Right-handed,Left leg in first
-5,4,7,Right-handed,I don't know
-5,2,7,Right-handed,Left leg in first
-10,10,7,Right-handed,Right leg in first
-2,4,7.5,Right-handed,Right leg in first
-7,10,8,Right-handed,Left leg in first
-5,15,7,Right-handed,Right leg in first
-4,3,8,Right-handed,I don't know
-8,7,6,Right-handed,Right leg in first
-4,5,8,Left-handed,Right leg in first
-4,1,7,Right-handed,Right leg in first
-10,15,7,Right-handed,Left leg in first
-1,4,6.5,Right-handed,Right leg in first
-8,6,6,Right-handed,Right leg in first
-4,4,7,Left-handed,Left leg in first
-3,5,8,Right-handed,Right leg in first
-5,5,7,Right-handed,Right leg in first
-4,5,7,Right-handed,Right leg in first
-5,5,6,Right-handed,Left leg in first
-7,30,6,Right-handed,Right leg in first
-4,5,7,Right-handed,Left leg in first
-7,10,7,Right-handed,Right leg in first
-4,4,7,Right-handed,Right leg in first
-8,10,5,Left-handed,Right leg in first
-5,5,7,Right-handed,Right leg in first
-3,5,6,Left-handed,Right leg in first
-7,5,7,Right-handed,I don't know
-8,5,9,Right-handed,Right leg in first
-2,3,7,Right-handed,Right leg in first
-6,10,7,Right-handed,Right leg in first
-5,15,9,Right-handed,Right leg in first
-6,5,6,Right-handed,Left leg in first
-6,4,8,Right-handed,I don't know
-9,10,6,Right-handed,Left leg in first
-6,10,6,Right-handed,Left leg in first
-4,4,7,Left-handed,Left leg in first
-8,15,7,Left-handed,Right leg in first
-8,10,8,Right-handed,Left leg in first
-4,3,6,Right-handed,Left leg in first
-8,12,7,Right-handed,Left leg in first
-7,10,7,Right-handed,I don't know
-4,5,7,Right-handed,Right leg in first
-5,8,7.5,Left-handed,Right leg in first
-9,20,5,Right-handed,Right leg in first
-8,6,7,Right-handed,Right leg in first
-5,2,8,Right-handed,I don't know
-7,6,6,Right-handed,Right leg in first
-2,3,7,Right-handed,I don't know
-7,10,7,Right-handed,Right leg in first
-8,10,7,Right-handed,Left leg in first
-8,3,8,Left-handed,Right leg in first
-4,10,9,Right-handed,Left leg in first
-5,8,8,Left-handed,Left leg in first
-2,5,8,Right-handed,Right leg in first
-6,10,8,Ambidextrous,Left leg in first
-8,10,7,Right-handed,Left leg in first
-7,3,6,Right-handed,I don't know
-5,20,7,Right-handed,Left leg in first
-6,5,7,Right-handed,I don't know
-4,2,8,Right-handed,Left leg in first
-6,3,6,Right-handed,Right leg in first
-6,3,7,Right-handed,Right leg in first
-8,4,5,Right-handed,Right leg in first
-3,5,7,Right-handed,Right leg in first
-8,10,7,Right-handed,I don't know
-2,3,8,Right-handed,I don't know
-5,15,6,Right-handed,I don't know
-4,3,7,Right-handed,Right leg in first
-9,5,6,Right-handed,Left leg in first
-6,12,7,Right-handed,Left leg in first
-2,5,7,Right-handed,Left leg in first
-8,4,8,Right-handed,Right leg in first
-4,10,7,Right-handed,Left leg in first
-3,5,6,Right-handed,Right leg in first
-7,5,8,Right-handed,Right leg in first
-7,10,7,Right-handed,Left leg in first
-3,7,7,Right-handed,Right leg in first
-7,10,7,Right-handed,I don't know
-3,5,7,Right-handed,Right leg in first
-3,5,8,Right-handed,I don't know
-4,4,7,Right-handed,Right leg in first
-8,7,7,Right-handed,Right leg in first
-5,5,8,Right-handed,Left leg in first
-8,9,4,Right-handed,Right leg in first
-4,10,5,Left-handed,Right leg in first
-8,8,7,Right-handed,Right leg in first
-7,5,7,Right-handed,Right leg in first
-7,3,7,Right-handed,Left leg in first
-3,5,8,Right-handed,Right leg in first
-4,5,8,Right-handed,Right leg in first
-5,4,9,Right-handed,Right leg in first
-9,5,8,Left-handed,Right leg in first
-5,2,6,Right-handed,Left leg in first
-4,5,7,Right-handed,Right leg in first
-5,5,7,Right-handed,Right leg in first
-4,3,7,Right-handed,Right leg in first
-6,10,7,Right-handed,Right leg in first
-7,5,7,Right-handed,Left leg in first
-6,15,5,Right-handed,Right leg in first
-8,10,8,Right-handed,Right leg in first
-7,10,7,Right-handed,Right leg in first
-7,10,4,Right-handed,Left leg in first
-7,12,6,Right-handed,I don't know
-4,5,7,Left-handed,Left leg in first
-3,5,6,Right-handed,Left leg in first
-4,2,7,Right-handed,Right leg in first
-9,10,7,Right-handed,Right leg in first
-7,10,7,Right-handed,I don't know
-6,5,7.5,Right-handed,I don't know
-6,8,7,Right-handed,Right leg in first
-6,5,8,Right-handed,Left leg in first
-4,20,7,Right-handed,Right leg in first
-7,3,6,Right-handed,Right leg in first
-5,5,8,Right-handed,Left leg in first
-4,10,7,Right-handed,Left leg in first
-4,3,7,Right-handed,Right leg in first
-9,5,6.7,Right-handed,Right leg in first
-6,5,7,Right-handed,Right leg in first
-5,10,6,Right-handed,Right leg in first
-7,9,8,Right-handed,I don't know
-1,20,8,Right-handed,I don't know
-8,13,8,Right-handed,Right leg in first
-8,5,8,Right-handed,I don't know
-6,7,7,Right-handed,Left leg in first
-4,4,7,Right-handed,Right leg in first
-8,20,5,Right-handed,Right leg in first
-8,4,8,Right-handed,Right leg in first
-9,10,7,Left-handed,Right leg in first
-6,25,7,Left-handed,Right leg in first
-4,2,6,Right-handed,Right leg in first
-7,6,9,Right-handed,Left leg in first
-3,10,8,Right-handed,Right leg in first
-5,5,7,Right-handed,Right leg in first
-2,5,7,Right-handed,Right leg in first
-8,30,7,Right-handed,Right leg in first
-8,6,6,Left-handed,Right leg in first
-3,6,8,Right-handed,Right leg in first
-7,10,6,Left-handed,Right leg in first
-3,15,7,Right-handed,Left leg in first
-2,3,8,Left-handed,Right leg in first
-7,3,7,Right-handed,Right leg in first
-4,5,6,Right-handed,I don't know
-4,8,8,Right-handed,Right leg in first
-7,6,7,Left-handed,I don't know
-3,10,7.5,Right-handed,Left leg in first
-7,8,7,Right-handed,Right leg in first
-10,5,7,Right-handed,Right leg in first
-7,10,6,Right-handed,Left leg in first
-6,3,7,Right-handed,Left leg in first
-9,10,7,Right-handed,Right leg in first
-7,7,8,Right-handed,Left leg in first
-4,15,10,Right-handed,Left leg in first
-3,7,6,Right-handed,I don't know
-7,8,6.5,Right-handed,Left leg in first
-3,2,7,Right-handed,I don't know
-6,7,7,Right-handed,Left leg in first
-9,10,6,Right-handed,Right leg in first
-1,4,7,Right-handed,I don't know
-8,6,7,Right-handed,Left leg in first
-7,4,7,Right-handed,I don't know
-6,4,7,Right-handed,Right leg in first
-7,4,7,Right-handed,Right leg in first
-9,8,6,Right-handed,Left leg in first
-3,6,8,Right-handed,I don't know
-7,12,7,Right-handed,I don't know
-4,5,7,Left-handed,Left leg in first
-5,7,8,Right-handed,Left leg in first
-6,10,8,Right-handed,I don't know
-4,8,7,Right-handed,Left leg in first
-7,5,6,Left-handed,Right leg in first
-6,4,7,Right-handed,Right leg in first
-6,3,6,Right-handed,Right leg in first
-7,6,7,Right-handed,Right leg in first
-6,10,8,Right-handed,Left leg in first
-8,6,7,Right-handed,I don't know
-6,6,7,Right-handed,I don't know
-6,4,10,Right-handed,Right leg in first
-10,6,5,Right-handed,I don't know
-3,4,7,Right-handed,I don't know
-6,10,7,Right-handed,Left leg in first
-4,4,6,Right-handed,Right leg in first
-6,5,6,Right-handed,Left leg in first
-3,5,6,Right-handed,Right leg in first
-3,4,7,Right-handed,Right leg in first
-7,4,7,Right-handed,Left leg in first
-7,7,9,Right-handed,I don't know
-6,5,7,Right-handed,I don't know
-8,20,7,Right-handed,Right leg in first
-6,2,5,Right-handed,Right leg in first
-4,2,6,Right-handed,Right leg in first
-7,4,3,Right-handed,I don't know
-5,3,7.5,Right-handed,Left leg in first
-4,3,6,Left-handed,I don't know
-8,1,6,Ambidextrous,Right leg in first
-7,30,7,Right-handed,Right leg in first
-4,7,7,Left-handed,Right leg in first
-5,5,8,Right-handed,Right leg in first
-3,4,7,Right-handed,Left leg in first
-6,7,7,Right-handed,I don't know
-7,8,5,Right-handed,Right leg in first
-2,10,6,Left-handed,Left leg in first
-3,2,7,Right-handed,Left leg in first
-10,30,8,Left-handed,Left leg in first
-7,10,8,Right-handed,Right leg in first
-5,3,8,Right-handed,Right leg in first
-6,6,8,Right-handed,Right leg in first
-4,5,8,Right-handed,Right leg in first
-4,3,8,Right-handed,I don't know
-4,3,6,Right-handed,I don't know
-6,50,7,Right-handed,Right leg in first
-5,3,7,Right-handed,Right leg in first
-7,10,7,Right-handed,I don't know
-9,10,6,Right-handed,Right leg in first
-7,7,7,Right-handed,Right leg in first
-6,5,7.5,Right-handed,Left leg in first
-4,8,7,Left-handed,Right leg in first
-4,4,6,Right-handed,I don't know
-5,4,5,Right-handed,I don't know
-6,7,8,Right-handed,Right leg in first
-5,5,7,Right-handed,Left leg in first
-4,10,8,Right-handed,Right leg in first
-2,3,6,Right-handed,Right leg in first
-4,10,7,Right-handed,Left leg in first
-4,5,7,Right-handed,Left leg in first
-3,5,7.5,Right-handed,Right leg in first
-7,8,6,Right-handed,Left leg in first
-8,8,7,Right-handed,Left leg in first
-6,8,8,Right-handed,Left leg in first
-4,8,8,Left-handed,Right leg in first
-10,4,8,Right-handed,Left leg in first
-7,10,7,Right-handed,Left leg in first
-8,5,7,Right-handed,I don't know
-8,15,7,Right-handed,Right leg in first
-6,4,7,Right-handed,Left leg in first
-4,10,7,Right-handed,Right leg in first
-4,3,8,Left-handed,I don't know
-2,8,8,Right-handed,Left leg in first
-6,7,7,Right-handed,Right leg in first
-6,2,6,Right-handed,Left leg in first
-3,7,7,Right-handed,Right leg in first
-3,8,7.5,Right-handed,Right leg in first
-1,4,7,Right-handed,I don't know
-1,1,7,Right-handed,Left leg in first
-6,5,7,Right-handed,I don't know
-9,10,8,Right-handed,I don't know
-6,2,8,Right-handed,Left leg in first
-3,5,7,Right-handed,Left leg in first
-7,62,6,Right-handed,Left leg in first
-7,3,7.5,Right-handed,Left leg in first
-6,5,7,Right-handed,I don't know
-5,5,7,Right-handed,Left leg in first
-7,15,7,Right-handed,Left leg in first
-5,5,7,Right-handed,Left leg in first
-6,10,6,Right-handed,Left leg in first
-3,7,8,Right-handed,Right leg in first
-7,3,6,Right-handed,I don't know
-2,4,5,Right-handed,Left leg in first
-3,10,5,Right-handed,Left leg in first
-6,10,7,Right-handed,Right leg in first
-8,8,8,Right-handed,Right leg in first
-3,5,7,Ambidextrous,Right leg in first
-7,5,8,Right-handed,Left leg in first
-9,9,6,Right-handed,Right leg in first
-6,2,3,Ambidextrous,Right leg in first
-5,6,7,Right-handed,Right leg in first
-2,7,7,Right-handed,Right leg in first
-7,12,7,Right-handed,Left leg in first
-3,4,7,Right-handed,Right leg in first
-10,4,6,Left-handed,Right leg in first
-6,5,8,Right-handed,Right leg in first
-7,3,8,Left-handed,Left leg in first
-7,5,7,Right-handed,Left leg in first
-7,15,7,Right-handed,Left leg in first
-9,100,7,Right-handed,Right leg in first
-7,5,8,Right-handed,Right leg in first
-5,6,6,Right-handed,Left leg in first
-9,10,7,Left-handed,Left leg in first
-7,5,8,Right-handed,Right leg in first
-6,10,7,Right-handed,Left leg in first
-7,15,6,Right-handed,Right leg in first
-3,3,6,Right-handed,Right leg in first
-7,4,6,Right-handed,Right leg in first
-8,10,8,Right-handed,Left leg in first
-5,35,6,Right-handed,Right leg in first
-8,6,7,Right-handed,Left leg in first
-8,9,6,Right-handed,Left leg in first
-3,10,7,Right-handed,Right leg in first
-3,10,5,Right-handed,I don't know
-8,6,7,Left-handed,Left leg in first
-8,3,7,Right-handed,Right leg in first
-7,15,7.5,Right-handed,Right leg in first
-8,1,7,Right-handed,I don't know
-5,4,6,Right-handed,Right leg in first
-4,4,7.5,Right-handed,Right leg in first
-8,5,6,Right-handed,Left leg in first
-3,9,8,Right-handed,Right leg in first
-10,20,7,Ambidextrous,I don't know
-6,4,7,Right-handed,Right leg in first
-7,9,7,Right-handed,Left leg in first
-6,3,6,Right-handed,I don't know
-5,5,6.5,Right-handed,Left leg in first
-5,4,8,Right-handed,Right leg in first
-6,6,8,Right-handed,Right leg in first
-2,3,6,Left-handed,Right leg in first
-6,16,6,Right-handed,Right leg in first
-6,6,7,Left-handed,Right leg in first
-5,4,8,Right-handed,Left leg in first
-5,16,6,Right-handed,Right leg in first
-3,3,8,Right-handed,I don't know
-3,5,8,Right-handed,Left leg in first
-5,9,8,Right-handed,Left leg in first
-5,6,7,Right-handed,I don't know
-3,6,6,Right-handed,Left leg in first
-4,10,8,Right-handed,Right leg in first
-5,3,7,Right-handed,I don't know
-4,6,7.5,Right-handed,Right leg in first
-5,5,6,Right-handed,Right leg in first
-3,3,5,Right-handed,Right leg in first
-7,6,8,Right-handed,Left leg in first
-4,10,6,Right-handed,Left leg in first
-5,7,6,Right-handed,I don't know
-7,50,7,Left-handed,Right leg in first
-3,7,7,Right-handed,Right leg in first
-7,23,8.5,Right-handed,I don't know
-7,12,6,Right-handed,Right leg in first
-3,4,7,Right-handed,Left leg in first
-8,2,7,Right-handed,Right leg in first
-5,4,8,Right-handed,Left leg in first
-3,1,7,Right-handed,I don't know
-5,5,7,Right-handed,Right leg in first
-3,2,7,Right-handed,Right leg in first
-7,12,6,Right-handed,Left leg in first
-8,8,8,Right-handed,Right leg in first
-4,10,9,Right-handed,Left leg in first
-3,10,6,Right-handed,Right leg in first
-5,5,8,Right-handed,Right leg in first
-2,10,7,Right-handed,Left leg in first
-3,2,6.5,Right-handed,Left leg in first
-8,7,6,Right-handed,Left leg in first
-8,10,6,Right-handed,Left leg in first
-5,2,7,Right-handed,Right leg in first
-3,13,7,Left-handed,Right leg in first
-4,4,6,Right-handed,Left leg in first
-7,4,8,Right-handed,Right leg in first
-4,5,6,Right-handed,Left leg in first
-8,6,7,Right-handed,Right leg in first
-6,7,7,Right-handed,Left leg in first
-9,15,5,Right-handed,Left leg in first
-7,12,6,Right-handed,Right leg in first
-8,6,6,Left-handed,Right leg in first
-4,7,8,Right-handed,Right leg in first
-5,4,8,Right-handed,Right leg in first
-3,4,7,Right-handed,I don't know
-6,20,6,Right-handed,Right leg in first
-6,2,6.5,Right-handed,Right leg in first
-4,7,8.5,Right-handed,Left leg in first
-7,2,7.5,Right-handed,I don't know
-7,8,7,Left-handed,I don't know
-7,7,6,Right-handed,Right leg in first
-4,8,8,Right-handed,Right leg in first
-2,4,6,Right-handed,Left leg in first
-8,15,8.5,Right-handed,Left leg in first
-7,7,8,Right-handed,Left leg in first
-5,6,7,Right-handed,Right leg in first
-8,20,7.5,Right-handed,Right leg in first
-4,2,6,Right-handed,Right leg in first
-7,8,7,Right-handed,Right leg in first
-4,4,6.5,Right-handed,Left leg in first
-8,10,7,Right-handed,Left leg in first
-9,10,8,Right-handed,Left leg in first
-3,20,7.5,Right-handed,Left leg in first
-4,10,7,Right-handed,Right leg in first
-5,10,8,Right-handed,I don't know
-3,3,7,Right-handed,Right leg in first
-3,1,5,Right-handed,Right leg in first
-7,5,7,Right-handed,I don't know
-7,3,6,Right-handed,Left leg in first
-6,10,6,Right-handed,I don't know
-3,3,6,Right-handed,Right leg in first
-7,9,7,Right-handed,Left leg in first
-3,5,7,Right-handed,I don't know
-5,3,5,Right-handed,Left leg in first
-3,4,6,Right-handed,I don't know
-8,6,4,Right-handed,Right leg in first
-6,5,5,Right-handed,Right leg in first
-2,3,7,Right-handed,Left leg in first
-3,5,7,Left-handed,Right leg in first
-7,6,6,Right-handed,Left leg in first
-7,9,6,Right-handed,I don't know
-7,3,8,Right-handed,Right leg in first
-7,6,8,Left-handed,Right leg in first
-5,3,7,Right-handed,Right leg in first
-8,5,5,Right-handed,Right leg in first
-8,45,8,Right-handed,Right leg in first
-8,6,6,Right-handed,I don't know
-10,10,8,Right-handed,Right leg in first
-7,8,7,Right-handed,I don't know
-4,10,6,Right-handed,Right leg in first
-7,10,7,Right-handed,Right leg in first
-7,3,7,Ambidextrous,Right leg in first
-3,5,7,Right-handed,I don't know
-3,10,7,Right-handed,Right leg in first
-4,4,7,Left-handed,Left leg in first
-6,5,7,Right-handed,Left leg in first
-7,10,7,Right-handed,Right leg in first
-5,7,8,Right-handed,Right leg in first
-7,8,8,Right-handed,Right leg in first
-8,20,7,Left-handed,Right leg in first
-7,7,8,Right-handed,Right leg in first
-10,15,7,Left-handed,I don't know
-4,10,6,Left-handed,Right leg in first
-1,2,7,Right-handed,Left leg in first
-5,5,7,Right-handed,Right leg in first
-8,6,7,Right-handed,Left leg in first
-8,6,5,Right-handed,Right leg in first
-3,4,6,Left-handed,I don't know
-8,6,8,Right-handed,Right leg in first
-6,6,7,Right-handed,Right leg in first
-6,15,7,Right-handed,Left leg in first
-3,10,6,Right-handed,I don't know
-8,7,7,Right-handed,Left leg in first
-7,15,6,Right-handed,Right leg in first
-4,15,6,Right-handed,Left leg in first
-8,50,7,Right-handed,Right leg in first
-3,10,8,Right-handed,Right leg in first
-4,9,6,Right-handed,I don't know
-5,6,7,Right-handed,I don't know
-7,3,6,Left-handed,Right leg in first
-8,4,7,Right-handed,Right leg in first
-2,2,6,Right-handed,Right leg in first
-5,10,6,Left-handed,I don't know
-7,2,7,Left-handed,Right leg in first
-3,5,5,Right-handed,Right leg in first
-6,7,6,Right-handed,I don't know
-7,10,8,Right-handed,Right leg in first
-7,3,7,Right-handed,Left leg in first
-5,20,7,Right-handed,Right leg in first
-3,3,8,Right-handed,Right leg in first
-8,5,7,Right-handed,Right leg in first
-8,15,8,Right-handed,Right leg in first
-7,5,7,Right-handed,Left leg in first
-3,5,8,Right-handed,Right leg in first
-5,3,5,Right-handed,Right leg in first
-8,10,7,Right-handed,Left leg in first
-6,5,7,Right-handed,Left leg in first
-8,10,7,Right-handed,Right leg in first
-3,20,10,Right-handed,Right leg in first
-7,5,7,Left-handed,Left leg in first
-4,8,6,Right-handed,Left leg in first
-5,15,6,Right-handed,Left leg in first
-7,10,7,Right-handed,Right leg in first
-4,6,6,Right-handed,Right leg in first
-5,4,6,Left-handed,Right leg in first
-5,5,6,Right-handed,Right leg in first
-4,5,7,Right-handed,I don't know
-7,3,7,Right-handed,Right leg in first
-6,6,6,Right-handed,Right leg in first
-5,5,6,Right-handed,Right leg in first
-4,5,7,Right-handed,I don't know
-9,5,7,Left-handed,Right leg in first
-5,6,7,Right-handed,Right leg in first
-10,5,8,Right-handed,Right leg in first
-3,20,6,Right-handed,Right leg in first
-2,4,9,Right-handed,Right leg in first
-8,16,8,Right-handed,Left leg in first
-6,10,7,Right-handed,Right leg in first
-4,10,6.5,Right-handed,Right leg in first
-6,3,6,Right-handed,Right leg in first
-6,5,7.5,Right-handed,Right leg in first
-8,5,7,Right-handed,Right leg in first
-4,4,7,Right-handed,I don't know
-7,12,7,Right-handed,Left leg in first
-4,5,6,Right-handed,Right leg in first
-3,3,7,Right-handed,Left leg in first
-5,6,6,Right-handed,Right leg in first
-6,4,6,Right-handed,Right leg in first
-6,4,7,Right-handed,I don't know
-4,2,9,Right-handed,Left leg in first
-5,9,8,Right-handed,Left leg in first
-7,5,8,Right-handed,Right leg in first
-7,4,7,Right-handed,Left leg in first
-9,50,7,Right-handed,Right leg in first
-6,8,7,Right-handed,Left leg in first
-9,16,8,Right-handed,Right leg in first
-9,15,6,Right-handed,Right leg in first
-7,7,7,Right-handed,Right leg in first
-8,15,5.5,Right-handed,Right leg in first
-6,10,6,Right-handed,Left leg in first
-7,7,5,Right-handed,Right leg in first
-9,5,6,Left-handed,Left leg in first
-8,23,6,Right-handed,Right leg in first
-7,12,8,Right-handed,Right leg in first
-7,10,8,Right-handed,Right leg in first
-10,20,7,Right-handed,Right leg in first
-7,9,6,Right-handed,Left leg in first
-5,4,7,Right-handed,Left leg in first
-8,4,6.5,Right-handed,Right leg in first
-6,10,8,Right-handed,Left leg in first
-7,8,7,Right-handed,Right leg in first
-7,10,7,Left-handed,I don't know
-6,4,8,Right-handed,Right leg in first
-7,6,8,Right-handed,Right leg in first
-9,10,6,Left-handed,Right leg in first
-10,20,6,Right-handed,Left leg in first
-2,3,7,Right-handed,Right leg in first
-6,6,9,Right-handed,Right leg in first
-10,1,6,Right-handed,Right leg in first
-7,8,8,Right-handed,I don't know
-5,3,6,Ambidextrous,Left leg in first
-7,3,7,Right-handed,Right leg in first
-8,10,7,Right-handed,Right leg in first
-8,5,7,Right-handed,Right leg in first
-4,6,9,Right-handed,I don't know
-4,2,7,Right-handed,Right leg in first
-4,2,9,Right-handed,Left leg in first
-7,20,9,Right-handed,Right leg in first
-6,10,5,Right-handed,Left leg in first
-7,5,6,Right-handed,Right leg in first
-4,3,6,Right-handed,Right leg in first
-6,3,8,Right-handed,Right leg in first
-4,7,8,Right-handed,Left leg in first
-3,10,7,Right-handed,Right leg in first
-7,4,7,Right-handed,I don't know
-7,5,8,Right-handed,Left leg in first
-3,6,6,Left-handed,Left leg in first
-8,15,7,Right-handed,I don't know
-8,4,8,Right-handed,Right leg in first
-7,4,7,Right-handed,Right leg in first
-7,10,7,Right-handed,Right leg in first
-6,15,9,Left-handed,Left leg in first
-8,15,7,Right-handed,I don't know
-6,7,7,Right-handed,Left leg in first
-7,26,6,Right-handed,I don't know
-6,4,6,Right-handed,Right leg in first
-9,12,6.5,Right-handed,Right leg in first
-8,20,8,Right-handed,Left leg in first
-5,4,8,Right-handed,Right leg in first
-7,10,7,Right-handed,Right leg in first
-9,3,6,Right-handed,Left leg in first
-7,2,6,Right-handed,Right leg in first
-5,10,7,Right-handed,I don't know
-8,1,8,Right-handed,Right leg in first
-5,4,6,Right-handed,Left leg in first
-2,5,6,Right-handed,Left leg in first
-7,7,5,Right-handed,Right leg in first
-3,5,7,Right-handed,Right leg in first
-7,6,7,Right-handed,I don't know
-3,3,7,Right-handed,I don't know
-8,1,8,Right-handed,Left leg in first
-4,6,8,Right-handed,Right leg in first
-6,5,7,Right-handed,Right leg in first
-7,15,6,Right-handed,Left leg in first
-7,8,7,Right-handed,Right leg in first
-7,12,5,Right-handed,Right leg in first
-3,5,7,Left-handed,Right leg in first
-6,4,5,Right-handed,Right leg in first
-2,6,8.5,Right-handed,Right leg in first
-3,10,8,Left-handed,Left leg in first
-4,5,10,Right-handed,Left leg in first
-4,8,8.5,Right-handed,Left leg in first
-7,12,7,Right-handed,Left leg in first
-3,5,8,Right-handed,I don't know
-4,3,7,Right-handed,I don't know
-7,25,6,Right-handed,Right leg in first
-7,6,6.5,Right-handed,Right leg in first
-2,10,7,Right-handed,Right leg in first
-6,8,8,Right-handed,Left leg in first
-2,2,7,Left-handed,Left leg in first
-6,8,7,Right-handed,I don't know
-5,6,7,Right-handed,Left leg in first
-8,15,6.5,Right-handed,Left leg in first
-4,3,7,Right-handed,I don't know
-6,4,6,Right-handed,Left leg in first
-7,2,6,Right-handed,Right leg in first
-4,8,7,Right-handed,Right leg in first
-6,20,9,Right-handed,Right leg in first
-6,5,6,Right-handed,Right leg in first
-3,5,8,Right-handed,Left leg in first
-4,7,7,Right-handed,Right leg in first
-5,4,8,Right-handed,Left leg in first
-6,4,7,Right-handed,I don't know
-3,3,8.5,Left-handed,Left leg in first
-5,7,7,Right-handed,Left leg in first
-3,5,6,Left-handed,Left leg in first
-6,5,5,Right-handed,Right leg in first
-7,7,8,Right-handed,I don't know
-8,10,7,Right-handed,Right leg in first
-6,3,6.5,Right-handed,Right leg in first
-4,12,6,Right-handed,Right leg in first
-5,1,6,Right-handed,Right leg in first
-4,10,7,Right-handed,Left leg in first
-5,10,7,Right-handed,Right leg in first
-8,3,7,Right-handed,Left leg in first
-6,34,6,Ambidextrous,Right leg in first
-10,15,6.5,Right-handed,Left leg in first
-6,6,7,Right-handed,Right leg in first
-7,10,9,Right-handed,Right leg in first
-10,8,6,Right-handed,Left leg in first
-6,2,8,Right-handed,Right leg in first
-4,11,8,Right-handed,Right leg in first
-9,20,4.5,Right-handed,Left leg in first
-7,15,8,Right-handed,Right leg in first
-6,10,7,Right-handed,Right leg in first
-7,10,7,Right-handed,Left leg in first
-3,5,6,Right-handed,Left leg in first
-9,8,6,Right-handed,I don't know
-4,10,6,Right-handed,Right leg in first
-7,7,5,Right-handed,I don't know
-7,3,6,Right-handed,Right leg in first
-6,5,8,Right-handed,I don't know
-4,4,8,Left-handed,Left leg in first
-4,5,7,Right-handed,Left leg in first
-7,5,7,Right-handed,Left leg in first
-6,15,6,Right-handed,I don't know
-4,4,7.5,Right-handed,Left leg in first
-2,4,7,Right-handed,Left leg in first
-9,7,8,Right-handed,Right leg in first
-6,4,7,Left-handed,Left leg in first
-7,7,7,Right-handed,Right leg in first
-7,15,6,Right-handed,Right leg in first
-7,10,6,Right-handed,Right leg in first
-7,10,7,Right-handed,Right leg in first
-8,20,6,Right-handed,Right leg in first
-4,5,8,Right-handed,I don't know
-8,8,7,Right-handed,Left leg in first
-8,10,6,Right-handed,Right leg in first
-5,5,8,Right-handed,Right leg in first
-5,8,7,Right-handed,Left leg in first
-7,5,7,Right-handed,Left leg in first
-7,6,7,Right-handed,Right leg in first
-3,8,7,Left-handed,Right leg in first
-10,3,8,Left-handed,Left leg in first
-8,8,8,Left-handed,Right leg in first
-4,10,7,Left-handed,Left leg in first
-9,5,6,Right-handed,I don't know
-5,3,6,Right-handed,Right leg in first
-4,6,6,Right-handed,Left leg in first
-7,3,8,Right-handed,I don't know
-8,3,8,Right-handed,Left leg in first
-4,3,7,Right-handed,I don't know
-8,10,6,Right-handed,Left leg in first
-8,20,7.5,Left-handed,Right leg in first
-9,5,8,Right-handed,Left leg in first
-8,7,8,Right-handed,I don't know
-4,6,6,Right-handed,Right leg in first
-7,10,7,Ambidextrous,I don't know
-6,3,8,Right-handed,Right leg in first
-6,12,7.5,Right-handed,Right leg in first
-5,4,6,Left-handed,Left leg in first
-2,5,8,Right-handed,Left leg in first
-8,9,7,Right-handed,Right leg in first
-4,5,7,Right-handed,Right leg in first
-4,3,5,Right-handed,I don't know
-7,2,8,Right-handed,Right leg in first
-6,5,8,Right-handed,Right leg in first
-4,5,8,Right-handed,Right leg in first
-5,3,7,Right-handed,Left leg in first
-3,5,7,Right-handed,Left leg in first
-4,23,6,Ambidextrous,Right leg in first
-4,15,7,Right-handed,Right leg in first
-8,4,7,Right-handed,Right leg in first
-7,7,8,Right-handed,Right leg in first
-4,10,9,Right-handed,Right leg in first
-8,9,7,Right-handed,Left leg in first
-6,7,7,Right-handed,I don't know
-6,3,8,Left-handed,I don't know
-7,4,6,Right-handed,Left leg in first
-5,5,8,Right-handed,I don't know
-6,6,7,Left-handed,Right leg in first
-7,6,7.5,Right-handed,Left leg in first
-6,1,5,Right-handed,Left leg in first
-7,5,8,Right-handed,I don't know
-10,5,6,Right-handed,Left leg in first
-4,8,5,Right-handed,Left leg in first
-9,25,7,Right-handed,Left leg in first
-9,5,7,Right-handed,I don't know
-9,35,9,Right-handed,Right leg in first
-6,4,7.5,Right-handed,I don't know
-3,13,6,Right-handed,I don't know
-9,12,8,Right-handed,Left leg in first
-4,5,7,Right-handed,Right leg in first
-5,3,6,Right-handed,Right leg in first
-4,3,7,Right-handed,Right leg in first
-8,20,8,Right-handed,Right leg in first
-8,10,6,Left-handed,Right leg in first
-7,8,7,Right-handed,Left leg in first
-8,15,8,Right-handed,Left leg in first
-6,10,7,Right-handed,Right leg in first
-1,2,7.5,Right-handed,Left leg in first
-4,2,7,Right-handed,Right leg in first
-5,8,7,Right-handed,Left leg in first
-8,6,7,Right-handed,Left leg in first
-8,10,8,Left-handed,Left leg in first
-7,5,7,Right-handed,Right leg in first
-5,5,6,Right-handed,Right leg in first
-6,5,6,Right-handed,Left leg in first
-4,5,6,Right-handed,Right leg in first
-1,4,5,Right-handed,Right leg in first
-8,10,7,Right-handed,Left leg in first
-5,4,5,Right-handed,Right leg in first
-3,10,8,Right-handed,Left leg in first
-6,10,9,Right-handed,Right leg in first
-3,4,6,Right-handed,Right leg in first
-5,3,8,Right-handed,Left leg in first
-7,12,7,Right-handed,Right leg in first
-8,5,8,Right-handed,Right leg in first
-8,10,6,Left-handed,Right leg in first
-4,4,6,Right-handed,Left leg in first
-4,4,6,Right-handed,Left leg in first
-2,4,8,Right-handed,Left leg in first
-5,8,7,Right-handed,Right leg in first
-5,5,7,Right-handed,Left leg in first
-5,4,8,Right-handed,Left leg in first
-6,10,6,Right-handed,Right leg in first
-7,3,7,Right-handed,Right leg in first
-7,10,7.5,Right-handed,Right leg in first
-9,20,7,Right-handed,I don't know
-7,10,7,Right-handed,Right leg in first
-6,5,6.5,Left-handed,Right leg in first
-6,5,7,Right-handed,Left leg in first
-8,3,7,Right-handed,Right leg in first
-7,20,6,Right-handed,Right leg in first
-8,20,7,Right-handed,Left leg in first
-4,2,7,Right-handed,Right leg in first
-2,3,7,Left-handed,Right leg in first
-6,10,8,Right-handed,Right leg in first
-8,20,6,Right-handed,Left leg in first
-5,3,6,Right-handed,Right leg in first
-6,5,7,Right-handed,I don't know
-8,12,7,Right-handed,Right leg in first
-5,13,8,Right-handed,Right leg in first
-6,5,7,Right-handed,Left leg in first
-3,3,6.5,Right-handed,I don't know
-7,4,7,Right-handed,I don't know
-5,10,6,Right-handed,Right leg in first
-2,8,6.5,Right-handed,Left leg in first
-9,3,8,Right-handed,Right leg in first
-6,4,8,Right-handed,I don't know
-6,10,8,Right-handed,Right leg in first
-8,4,6,Right-handed,Right leg in first
-6,10,6,Right-handed,Right leg in first
-5,10,7,Right-handed,I don't know
-7,6,6,Right-handed,Right leg in first
-7,7,6,Right-handed,Right leg in first
-7,5,8.5,Right-handed,Left leg in first
-4,7,8,Right-handed,Left leg in first
-10,7,7,Right-handed,Left leg in first
-9,15,8,Right-handed,Right leg in first
-3,3,7,Right-handed,Left leg in first
-8,5,7,Right-handed,Right leg in first
-4,4,9,Right-handed,I don't know
-5,5,5,Right-handed,Right leg in first
-7,15,7,Right-handed,Right leg in first
-4,3,7.5,Right-handed,Right leg in first
-9,18,8,Right-handed,Right leg in first
-8,5,7,Right-handed,Right leg in first
-4,2,7,Right-handed,Left leg in first
-3,3,7,Right-handed,Right leg in first
-8,16,7,Right-handed,Right leg in first
-5,3,5,Right-handed,Right leg in first
-7,12,7,Right-handed,I don't know
-9,12,6,Right-handed,Right leg in first
-7,10,6,Right-handed,Right leg in first
-8,7,7,Right-handed,Left leg in first
-5,1,7,Right-handed,I don't know
-6,5,7,Right-handed,I don't know
-7,10,7,Right-handed,Right leg in first
-7,10,8,Right-handed,Right leg in first
-3,2,7,Right-handed,Right leg in first
-8,6,7,Right-handed,I don't know
-8,15,7,Right-handed,Right leg in first
-8,10,8,Right-handed,I don't know
-4,0,7,Right-handed,I don't know
-5,5,8,Right-handed,I don't know
-6,20,8,Right-handed,Left leg in first
-8,5,8,Right-handed,I don't know
-8,7,8,Right-handed,Left leg in first
-4,6,8,Right-handed,Left leg in first
-8,3,7,Right-handed,Right leg in first
-7,10,8,Right-handed,Right leg in first
-5,10,6,Right-handed,Right leg in first
-7,50,7,Right-handed,I don't know
-3,4,9,Right-handed,Right leg in first
-7,8,7,Right-handed,Right leg in first
-7,7,7,Left-handed,Left leg in first
-2,3,6,Right-handed,Left leg in first
-5,3,8,Right-handed,Right leg in first
-6,7,6,Right-handed,Right leg in first
-7,5,7,Right-handed,Right leg in first
-3,3,8,Right-handed,Left leg in first
-3,5,6,Right-handed,Right leg in first
-8,10,7,Left-handed,Left leg in first
-4,5,7,Right-handed,Right leg in first
-5,10,6,Right-handed,I don't know
-8,7,6,Right-handed,Right leg in first
-5,3,7,Right-handed,Right leg in first
-5,4,7,Right-handed,Right leg in first
-5,10,7,Right-handed,Right leg in first
-3,3,7,Right-handed,I don't know
-6,5,8,Right-handed,Left leg in first
-8,30,8,Right-handed,Right leg in first
-9,14,6,Right-handed,Right leg in first
-7,7,7,Right-handed,Left leg in first
-3,10,8,Right-handed,Right leg in first
-3,7,7,Right-handed,Right leg in first
-5,3,7,Right-handed,Left leg in first
-4,6,7,Right-handed,Right leg in first
-9,15,7,Right-handed,Right leg in first
-7,4,7,Right-handed,Right leg in first
-9,15,6,Right-handed,Right leg in first
-7,20,6,Right-handed,Right leg in first
-3,6,8,Right-handed,Right leg in first
-7,7,7,Right-handed,Left leg in first
-2,4,6,Right-handed,Right leg in first
-7,7,7.5,Left-handed,Right leg in first
-9,4,7,Right-handed,Left leg in first
-4,2,6,Ambidextrous,Right leg in first
-7,2,7,Left-handed,Left leg in first
-4,6,7,Right-handed,Right leg in first
-3,3,7,Right-handed,Left leg in first
-8,11,6,Right-handed,I don't know
-5,7,7,Right-handed,Right leg in first
-7,3,7,Right-handed,Left leg in first
-8,5,8,Right-handed,I don't know
-3,4,7,Right-handed,Right leg in first
-5,40,7,Left-handed,Left leg in first
-7,3,7,Right-handed,Right leg in first
-3,3,8,Right-handed,Right leg in first
-4,10,7,Right-handed,Left leg in first
-5,10,6,Left-handed,I don't know
-4,4,6.5,Right-handed,Left leg in first
-5,5,7,Right-handed,Right leg in first
-7,3,7,Right-handed,Right leg in first
-7,10,7,Right-handed,Right leg in first
-2,10,6,Right-handed,Right leg in first
-8,15,7.5,Right-handed,Right leg in first
-6,20,6,Right-handed,Right leg in first
-6,7,7,Right-handed,Right leg in first
-6,10,7.5,Right-handed,I don't know
-7,15,7,Right-handed,Right leg in first
-5,5,7,Right-handed,Right leg in first
-3,6,7,Right-handed,Right leg in first
-5,5,8,Right-handed,Right leg in first
-8,10,8,Right-handed,Right leg in first
-6,4,6,Right-handed,Right leg in first
-3,6,8,Right-handed,Right leg in first
-1,0,7,Left-handed,Right leg in first
-7,20,6,Right-handed,Left leg in first
-6,8,7,Right-handed,I don't know
-6,5,6,Left-handed,Right leg in first
-6,3,7,Right-handed,Left leg in first
-4,15,6,Right-handed,Right leg in first
-4,2,6,Right-handed,Right leg in first
-4,5,6,Right-handed,Left leg in first
-4,5,8,Left-handed,Left leg in first
-5,5,7.5,Right-handed,I don't know
-6,3,8,Right-handed,Right leg in first
-6,8,7,Right-handed,Right leg in first
-7,10,6,Right-handed,Left leg in first
-3,6,6,Right-handed,Right leg in first
-4,3,8,Right-handed,Right leg in first
-6,4,6,Right-handed,Left leg in first
-10,30,6,Right-handed,I don't know
-8,8,8,Right-handed,Left leg in first
-2,5,7,Right-handed,Left leg in first
-6,20,7,Right-handed,Right leg in first
-6,4,8,Right-handed,Right leg in first
-4,5,7,Right-handed,Right leg in first
-6,10,6.5,Right-handed,Right leg in first
-8,6,6,Left-handed,Left leg in first
-6,10,7,Right-handed,Right leg in first
-10,6,8,Left-handed,I don't know
-6,6,8,Right-handed,Left leg in first
-7,10,7,Right-handed,I don't know
-7,6,7,Right-handed,Left leg in first
-3,4,7,Right-handed,I don't know
-4,20,7,Right-handed,Right leg in first
-4,5,7,Right-handed,Right leg in first
-5,12,7,Right-handed,Left leg in first
-7,5,7,Right-handed,I don't know
-6,8,7,Right-handed,Left leg in first
-5,8,8,Right-handed,Left leg in first
-10,5,7,Left-handed,Right leg in first
-7,8,6,Right-handed,I don't know
-9,20,7,Right-handed,Right leg in first
-8,15,7,Right-handed,Right leg in first
-8,12,6,Right-handed,I don't know
-5,15,6,Right-handed,I don't know
-3,3,7,Right-handed,Left leg in first
-5,5,7,Left-handed,Right leg in first
-7,2,8,Right-handed,Left leg in first
-2,10,7,Right-handed,I don't know
-8,5,7,Right-handed,I don't know
-8,5,9,Right-handed,I don't know
-8,4,7,Right-handed,I don't know
-10,15,7,Right-handed,Right leg in first
-3,10,7.5,Left-handed,Right leg in first
-2,10,6.5,Right-handed,Right leg in first
-1,0,8,Left-handed,Right leg in first
-4,15,7,Right-handed,Right leg in first
-6,5,7,Right-handed,Left leg in first
-10,30,4,Right-handed,Right leg in first
-6,5,7,Right-handed,Left leg in first
-5,2,5,Right-handed,Right leg in first
-3,4,6,Left-handed,Right leg in first
-4,3,7,Right-handed,Right leg in first
-9,10,7,Right-handed,Right leg in first
-8,6,7,Right-handed,I don't know
-3,12,7,Right-handed,Right leg in first
-4,10,8,Right-handed,Right leg in first
-5,20,7,Right-handed,Left leg in first
-9,16,8,Right-handed,Right leg in first
-6,20,7,Right-handed,Right leg in first
-5,5,5,Right-handed,Right leg in first
-5,4,5,Right-handed,Right leg in first
-5,5,8,Right-handed,Left leg in first
-4,7,6,Right-handed,I don't know
-8,15,7,Right-handed,Right leg in first
-9,9,8,Right-handed,Left leg in first
-9,8,7,Right-handed,Right leg in first
-5,5,7,Right-handed,Left leg in first
-2,2,7,Right-handed,Left leg in first
-8,30,7,Right-handed,Right leg in first
-5,10,7,Right-handed,Right leg in first
-9,10,6.5,Right-handed,Right leg in first
-5,10,8,Right-handed,Left leg in first
-7,30,7.5,Right-handed,I don't know
-7,5,8,Right-handed,Right leg in first
-7,20,8,Right-handed,Right leg in first
-7,3,7,Right-handed,I don't know
-5,0,6,Left-handed,Right leg in first
-5,1,8,Right-handed,Left leg in first
-4,3,6,Right-handed,Right leg in first
-8,3,7,Right-handed,Right leg in first
-4,10,8,Right-handed,Left leg in first
-5,4,5,Right-handed,Right leg in first
-7,2,8,Right-handed,Right leg in first
-2,4,6,Right-handed,I don't know
-7,5,7,Right-handed,Left leg in first
-4,10,9,Left-handed,Right leg in first
-7,4,8,Right-handed,Right leg in first
-6,4,8,Ambidextrous,Right leg in first
-8,7,8,Right-handed,Right leg in first
-8,3,6,Right-handed,I don't know
-8,13,7,Right-handed,Right leg in first
-7,4,10,Right-handed,I don't know
-4,3,7,Left-handed,Right leg in first
-4,8,8,Left-handed,Left leg in first
-8,15,6,Right-handed,I don't know
-6,2,7,Right-handed,Left leg in first
-6,5,7,Right-handed,I don't know
-5,10,5,Right-handed,Right leg in first
-7,10,8,Right-handed,I don't know
-10,10,8,Right-handed,Right leg in first
-5,5,7,Right-handed,Right leg in first
-7,3,6,Right-handed,Right leg in first
-7,5,5,Right-handed,Left leg in first
-9,5,5,Right-handed,Right leg in first
-8,10,7,Left-handed,Left leg in first
-4,3,6,Right-handed,Right leg in first
-5,7,6,Right-handed,Right leg in first
-8,2,7,Left-handed,Left leg in first
-7,5,8,Right-handed,Left leg in first
-7,10,7,Left-handed,Right leg in first
-10,10,8,Right-handed,Left leg in first
-6,3,7,Right-handed,Left leg in first
-8,6,6,Right-handed,Right leg in first
-8,3,5,Right-handed,Right leg in first
-7,10,6,Right-handed,Right leg in first
-5,6,7,Right-handed,Left leg in first
-8,10,8,Right-handed,Right leg in first
-6,5,8,Right-handed,I don't know
-7,8,6,Right-handed,I don't know
-3,3,7.5,Right-handed,Left leg in first
-8,5,7,Right-handed,Right leg in first
-7,4,8,Right-handed,Right leg in first
-7,10,7,Right-handed,Right leg in first
-5,5,8,Right-handed,Right leg in first
-5,6,8,Right-handed,Left leg in first
-4,15,7,Right-handed,Right leg in first
-6,10,8,Right-handed,Left leg in first
-4,30,7,Right-handed,Right leg in first
-8,5,8,Left-handed,Right leg in first
-8,4,8,Right-handed,Right leg in first
-7,10,8,Right-handed,Right leg in first
-5,3,7,Right-handed,Right leg in first
-5,5,6.3,Right-handed,I don't know
-9,15,7,Right-handed,Left leg in first
-3,7,6,Right-handed,Right leg in first
-7,1,6,Right-handed,Right leg in first
-7,5,6,Right-handed,Left leg in first
-8,5,8,Left-handed,Left leg in first
-2,1,7.5,Left-handed,Left leg in first
-8,100,6,Right-handed,Right leg in first
-6,5,8,Right-handed,Right leg in first
-6,4,7,Right-handed,Right leg in first
-7,10,6,Right-handed,Left leg in first
-7,15,6,Right-handed,Right leg in first
-7,13,5,Right-handed,Left leg in first
-5,10,8,Right-handed,Right leg in first
-7,3,8,Right-handed,Right leg in first
-3,8,7,Right-handed,Left leg in first
-4,12,7,Right-handed,Right leg in first
-8,15,7,Right-handed,Left leg in first
-7,5,6,Ambidextrous,I don't know
-7,8,7,Right-handed,Right leg in first
-2,5,6,Right-handed,I don't know
-9,8,8,Right-handed,Right leg in first
-7,8,6.5,Right-handed,Right leg in first
-9,10,7.5,Right-handed,Right leg in first
-5,3,8,Right-handed,Left leg in first
-7,15,7,Right-handed,Right leg in first
-8,10,6,Right-handed,Right leg in first
-10,100,7,Right-handed,Right leg in first
-3,3,7,Right-handed,I don't know
-3,4,7,Right-handed,Right leg in first
-6,6,6,Right-handed,Left leg in first
-6,1,6,Right-handed,Right leg in first
-6,4,8,Right-handed,Right leg in first
-3,10,7,Right-handed,Left leg in first
-3,4,7,Right-handed,Left leg in first
-3,4,6,Right-handed,Right leg in first
-7,12,7,Right-handed,Right leg in first
-7,15,8,Right-handed,Right leg in first
-8,4,7,Right-handed,Left leg in first
-10,17,7,Right-handed,Right leg in first
-5,3,8,Right-handed,Left leg in first
-9,7,7,Right-handed,Right leg in first
-3,3,6,Right-handed,I don't know
-7,3,7,Right-handed,Right leg in first
-7,3,7,Right-handed,Right leg in first
-8,25,7,Right-handed,Right leg in first
-10,17,8,Right-handed,Left leg in first
-4,7,8,Right-handed,Right leg in first
-8,10,7,Right-handed,Right leg in first
-3,10,7,Right-handed,Left leg in first
-5,8,5,Right-handed,Right leg in first
-4,40,6,Right-handed,Right leg in first
-4,4,8,Right-handed,Right leg in first
-9,20,7,Right-handed,Right leg in first
-5,15,7,Right-handed,Right leg in first
-5,4,6,Right-handed,Right leg in first
-4,3,6,Right-handed,I don't know
-4,5,9,Right-handed,Left leg in first
-8,5,8,Right-handed,Left leg in first
-3,6,6,Right-handed,I don't know
-6,3,8,Right-handed,Right leg in first
-7,15,6.5,Right-handed,Left leg in first
-5,3,8,Right-handed,Right leg in first
-5,3,7,Right-handed,Right leg in first
-7,7,7,Right-handed,Right leg in first
-8,7,7,Right-handed,Right leg in first
-4,6,6,Right-handed,Left leg in first
-3,4,6,Right-handed,Right leg in first
-5,7,9,Right-handed,I don't know
-7,10,6,Right-handed,Right leg in first
-7,8,7,Right-handed,I don't know
-2,2,6,Right-handed,Left leg in first
-3,3,9,Right-handed,I don't know
-7,5,7,Left-handed,I don't know
-7,30,5,Right-handed,Right leg in first
-3,4,7,Right-handed,Right leg in first
-2,4,7.5,Right-handed,Left leg in first
-4,6,8,Right-handed,Right leg in first
-5,3,6,Right-handed,Left leg in first
-3,15,7,Right-handed,Left leg in first
-7,15,6,Right-handed,Left leg in first
-8,10,9,Right-handed,Right leg in first
-7,20,8,Left-handed,Left leg in first
-5,5,6,Right-handed,Left leg in first
-5,3,7,Right-handed,Right leg in first
-7,12,8,Right-handed,Right leg in first
-8,4,8,Right-handed,Right leg in first
-4,2,6,Right-handed,I don't know
-4,4,8,Right-handed,Right leg in first
-10,5,6,Right-handed,Right leg in first
-8,7,7,Right-handed,Right leg in first
-5,15,6.5,Right-handed,Right leg in first
-4,7,8,Right-handed,I don't know
-3,6,7,Left-handed,Left leg in first
-6,5,7,Right-handed,Left leg in first
-4,10,8,Right-handed,Right leg in first
-4,2,5,Right-handed,Right leg in first
-8,5,7,Right-handed,Right leg in first
-4,9,6,Left-handed,Right leg in first
-6,4,6,Right-handed,Right leg in first
-7,2,6,Right-handed,Right leg in first
-4,8,7,Right-handed,Right leg in first
-3,3,5,Right-handed,Left leg in first
-7,10,8,Right-handed,Right leg in first
-5,10,6,Right-handed,I don't know
-2,2,6,Left-handed,Left leg in first
-8,25,6,Right-handed,Right leg in first
-9,5,6,Left-handed,Left leg in first
-8,8,8,Right-handed,Right leg in first
-6,0,8,Right-handed,Right leg in first
-4,5,6,Right-handed,Left leg in first
-7,15,5,Right-handed,Right leg in first
-5,8,6,Right-handed,Left leg in first
-4,4,7.5,Right-handed,I don't know
-6,14,7,Right-handed,Left leg in first
-3,6,5,Right-handed,Left leg in first
-3,4,5,Right-handed,Right leg in first
-7,10,6,Right-handed,Left leg in first
-7,10,6,Right-handed,Right leg in first
-4,2,4,Right-handed,Right leg in first
-3,8,7,Right-handed,Right leg in first
-8,9,6,Right-handed,Right leg in first
-10,5,5,Right-handed,Right leg in first
-4,5,6,Right-handed,I don't know
-3,2,8,Right-handed,Right leg in first
+Extraversion,Number of Texters,Hours of Sleep,Pant Leg Order,Handedness
+5.0,3.0,7.0,Right leg in first,Right-handed
+1.0,2.0,7.5,Left leg in first,Right-handed
+4.0,5.0,6.0,Left leg in first,Right-handed
+8.0,3.0,7.0,Left leg in first,Right-handed
+3.0,2.0,6.0,I don't know,Right-handed
+3.0,4.0,8.0,Right leg in first,Right-handed
+2.0,0.0,10.0,I don't know,Right-handed
+7.0,6.0,6.0,Right leg in first,Right-handed
+5.0,4.0,8.0,Left leg in first,Right-handed
+5.0,5.0,8.0,Left leg in first,Right-handed
+4.0,4.0,6.0,Left leg in first,Right-handed
+4.0,3.0,6.0,I don't know,Right-handed
+2.0,1.0,7.0,Right leg in first,Right-handed
+7.0,6.0,7.0,Right leg in first,Right-handed
+7.0,2.0,8.0,Left leg in first,Right-handed
+5.0,6.0,8.0,Right leg in first,Left-handed
+6.0,12.0,7.0,Left leg in first,Right-handed
+6.0,5.0,8.0,Right leg in first,Right-handed
+1.0,1.0,7.0,I don't know,Right-handed
+4.0,1.0,7.0,Right leg in first,Right-handed
+4.0,3.0,8.0,Left leg in first,Right-handed
+5.0,4.0,7.0,Right leg in first,Right-handed
+6.0,5.0,7.0,Right leg in first,Right-handed
+5.0,5.0,7.0,I don't know,Right-handed
+1.0,4.0,9.0,Right leg in first,Right-handed
+8.0,10.0,11.0,Left leg in first,Left-handed
+7.0,3.0,8.0,Right leg in first,Right-handed
+6.0,7.0,8.0,Right leg in first,Right-handed
+5.0,4.0,9.0,Right leg in first,Right-handed
+6.0,5.0,7.5,I don't know,Right-handed
+2.0,8.0,8.0,Right leg in first,Left-handed
+8.0,10.0,7.0,Right leg in first,Right-handed
+5.0,7.0,7.0,Left leg in first,Right-handed
+5.0,10.0,7.0,I don't know,Ambidextrous / It's Complicated
+3.0,4.0,8.0,Right leg in first,Right-handed
+2.0,4.0,7.0,I don't know,Right-handed
+7.0,7.0,7.0,Right leg in first,Right-handed
+8.0,8.0,9.0,Left leg in first,Right-handed
+6.0,5.0,7.0,Left leg in first,Right-handed
+5.0,16.0,7.0,I don't know,Right-handed
+3.0,5.0,7.0,Left leg in first,Right-handed
+3.0,2.0,7.0,I don't know,Right-handed
+4.0,5.0,9.0,Left leg in first,Right-handed
+3.0,5.0,7.0,Right leg in first,Right-handed
+5.0,15.0,8.0,Left leg in first,Right-handed
+7.0,5.0,8.0,Right leg in first,Left-handed
+4.0,5.0,9.0,Left leg in first,Right-handed
+3.0,2.0,7.5,I don't know,Right-handed
+7.0,10.0,7.0,Left leg in first,Right-handed
+6.0,5.0,7.0,Left leg in first,Left-handed
+8.0,3.0,7.0,I don't know,Right-handed
+7.0,5.0,8.0,Right leg in first,Right-handed
+3.0,8.0,7.0,I don't know,Right-handed
+6.0,3.0,8.0,Right leg in first,Right-handed
+5.0,10.0,5.0,Right leg in first,Right-handed
+6.0,3.0,8.0,Right leg in first,Right-handed
+7.0,10.0,7.0,Left leg in first,Right-handed
+2.0,6.0,10.0,Right leg in first,Right-handed
+7.0,6.0,8.0,Left leg in first,Right-handed
+8.0,40.0,8.0,Right leg in first,Right-handed
+3.0,1.0,7.0,Right leg in first,Right-handed
+7.0,5.0,6.0,Right leg in first,Right-handed
+6.0,10.0,8.0,Left leg in first,Right-handed
+7.0,3.0,7.0,Left leg in first,Right-handed
+7.0,2.0,9.0,I don't know,Right-handed
+6.0,4.0,8.0,Right leg in first,Right-handed
+1.0,3.0,6.0,Left leg in first,Right-handed
+3.0,5.0,5.0,Right leg in first,Right-handed
+8.0,6.0,8.0,Right leg in first,Right-handed
+7.0,6.0,5.0,Right leg in first,Right-handed
+6.0,8.0,6.0,Right leg in first,Right-handed
+6.0,7.0,6.0,I don't know,Right-handed
+9.0,10.0,8.0,Left leg in first,Right-handed
+7.0,7.0,6.0,Right leg in first,Right-handed
+8.0,4.0,8.0,Left leg in first,Right-handed
+7.0,10.0,8.0,Right leg in first,Right-handed
+6.0,4.0,6.5,Right leg in first,Right-handed
+2.0,2.0,7.0,I don't know,Right-handed
+5.0,10.0,6.0,Left leg in first,Right-handed
+8.0,8.0,7.0,Left leg in first,Right-handed
+6.0,4.0,9.0,Left leg in first,Right-handed
+9.0,10.0,8.0,Right leg in first,Right-handed
+9.0,12.0,7.0,Right leg in first,Right-handed
+7.0,5.0,5.0,Right leg in first,Right-handed
+3.0,6.0,7.5,Left leg in first,Right-handed
+7.0,5.0,8.0,Left leg in first,Right-handed
+4.0,9.0,8.0,Right leg in first,Right-handed
+7.0,15.0,8.0,Right leg in first,Right-handed
+3.0,4.0,8.0,Left leg in first,Right-handed
+6.0,7.0,7.0,Right leg in first,Right-handed
+3.0,1.0,5.0,Right leg in first,Right-handed
+7.0,10.0,6.0,Right leg in first,Right-handed
+5.0,4.0,6.0,I don't know,Right-handed
+10.0,6.0,6.0,Left leg in first,Right-handed
+5.0,5.0,7.0,I don't know,Left-handed
+5.0,4.0,6.5,I don't know,Right-handed
+6.0,1.0,7.0,Right leg in first,Right-handed
+2.0,3.0,7.0,I don't know,Right-handed
+3.0,2.0,7.0,Right leg in first,Right-handed
+7.0,2.0,7.0,Right leg in first,Right-handed
+9.0,15.0,7.0,Left leg in first,Right-handed
+3.0,1.0,6.0,Right leg in first,Right-handed
+7.0,6.0,7.0,Left leg in first,Right-handed
+5.0,4.0,7.0,Right leg in first,Right-handed
+4.0,3.0,10.0,Left leg in first,Left-handed
+4.0,2.0,7.0,Right leg in first,Right-handed
+7.0,10.0,7.0,Right leg in first,Right-handed
+5.0,5.0,7.0,Right leg in first,Right-handed
+6.0,6.0,7.0,Right leg in first,Left-handed
+8.0,20.0,6.0,Left leg in first,Right-handed
+6.0,8.0,7.0,I don't know,Right-handed
+7.0,10.0,6.0,Right leg in first,Right-handed
+5.0,5.0,7.0,Right leg in first,Right-handed
+8.0,20.0,7.0,Left leg in first,Left-handed
+7.0,2.0,8.0,Right leg in first,Right-handed
+4.0,15.0,6.0,Right leg in first,Right-handed
+8.0,10.0,8.0,Left leg in first,Right-handed
+8.0,4.0,8.0,Right leg in first,Right-handed
+3.0,5.0,8.0,I don't know,Right-handed
+4.0,5.0,8.0,I don't know,Right-handed
+4.0,3.0,8.0,Left leg in first,Right-handed
+5.0,5.0,8.0,I don't know,Left-handed
+1.0,2.0,7.0,Left leg in first,Right-handed
+8.0,5.0,8.0,Right leg in first,Right-handed
+3.0,2.0,8.0,Right leg in first,Right-handed
+8.0,12.0,7.0,Left leg in first,Right-handed
+8.0,10.0,7.0,Left leg in first,Left-handed
+3.0,3.0,7.0,Right leg in first,Left-handed
+7.0,5.0,6.0,Left leg in first,Left-handed
+5.0,6.0,7.0,Left leg in first,Right-handed
+3.0,1.0,8.0,I don't know,Right-handed
+5.0,5.0,8.0,I don't know,Right-handed
+5.0,4.0,7.0,Left leg in first,Right-handed
+5.0,3.0,8.0,Right leg in first,Right-handed
+6.0,4.0,6.0,I don't know,Right-handed
+2.0,0.0,6.0,I don't know,Right-handed
+5.0,5.0,8.0,I don't know,Right-handed
+3.0,7.0,9.0,Left leg in first,Right-handed
+5.0,6.0,7.0,Left leg in first,Right-handed
+8.0,6.0,7.0,Right leg in first,Right-handed
+6.0,5.0,8.0,Left leg in first,Left-handed
+7.0,17.0,9.0,Right leg in first,Right-handed
+1.0,5.0,6.0,Right leg in first,Right-handed
+4.0,3.0,7.75,Right leg in first,Right-handed
+5.0,5.0,8.0,Right leg in first,Right-handed
+6.0,20.0,6.5,I don't know,Left-handed
+3.0,15.0,8.0,Right leg in first,Right-handed
+2.0,3.0,7.0,Right leg in first,Right-handed
+6.0,14.0,8.0,I don't know,Right-handed
+3.0,1.0,7.0,Left leg in first,Left-handed
+3.0,2.0,6.0,Left leg in first,Right-handed
+8.0,13.0,7.5,Right leg in first,Right-handed
+3.0,3.0,8.0,Left leg in first,Ambidextrous / It's Complicated
+7.0,10.0,7.0,Right leg in first,Right-handed
+6.0,8.0,7.0,Left leg in first,Right-handed
+7.0,10.0,7.0,Right leg in first,Right-handed
+7.0,7.0,7.0,I don't know,Right-handed
+6.0,2.0,7.0,Right leg in first,Right-handed
+6.0,5.0,7.0,I don't know,Right-handed
+3.0,3.0,9.0,Left leg in first,Right-handed
+7.0,10.0,6.0,Right leg in first,Right-handed
+7.0,40.0,7.0,I don't know,Right-handed
+6.0,3.0,8.0,I don't know,Right-handed
+7.0,10.0,6.0,I don't know,Right-handed
+7.0,5.0,8.5,Left leg in first,Right-handed
+4.0,6.0,7.0,I don't know,Left-handed
+7.0,1.0,6.0,Left leg in first,Right-handed
+7.0,4.0,8.0,Left leg in first,Right-handed
+7.0,5.0,7.0,Right leg in first,Right-handed
+3.0,3.0,8.0,Left leg in first,Right-handed
+6.0,6.0,6.0,I don't know,Right-handed
+3.0,4.0,7.0,Left leg in first,Left-handed
+5.0,4.0,8.0,Left leg in first,Right-handed
+3.0,3.0,6.0,Right leg in first,Right-handed
+5.0,4.0,7.0,Right leg in first,Right-handed
+9.0,3.0,8.0,Left leg in first,Right-handed
+7.0,3.0,6.0,Left leg in first,Right-handed
+4.0,3.0,7.0,Left leg in first,Right-handed
+3.0,4.0,7.0,Right leg in first,Left-handed
+5.0,6.0,8.0,Right leg in first,Right-handed
+7.0,10.0,7.0,I don't know,Right-handed
+10.0,20.0,7.0,Right leg in first,Right-handed
+5.0,7.0,7.0,I don't know,Ambidextrous / It's Complicated
+4.0,6.0,8.0,Right leg in first,Right-handed
+4.0,4.0,8.0,Right leg in first,Right-handed
+9.0,8.0,7.0,Right leg in first,Ambidextrous / It's Complicated
+6.0,8.0,7.0,Left leg in first,Right-handed
+7.0,20.0,9.0,Left leg in first,Right-handed
+2.0,5.0,7.0,Left leg in first,Right-handed
+1.0,5.0,7.5,Right leg in first,Right-handed
+6.0,3.0,7.0,I don't know,Right-handed
+7.0,8.0,8.0,Left leg in first,Left-handed
+8.0,6.0,7.0,Right leg in first,Right-handed
+3.0,3.0,8.0,Left leg in first,Right-handed
+4.0,4.0,9.0,Left leg in first,Right-handed
+6.0,6.0,7.5,Right leg in first,Right-handed
+9.0,50.0,6.0,Left leg in first,Right-handed
+6.0,15.0,8.0,Right leg in first,Right-handed
+7.0,10.0,8.0,Right leg in first,Right-handed
+5.0,5.0,6.0,Right leg in first,Left-handed
+7.0,10.0,8.0,Right leg in first,Right-handed
+6.0,4.0,7.0,Right leg in first,Right-handed
+3.0,2.0,8.5,Right leg in first,Right-handed
+4.0,8.0,7.0,I don't know,Right-handed
+3.0,5.0,8.0,Right leg in first,Right-handed
+8.0,15.0,7.0,Right leg in first,Right-handed
+5.0,15.0,8.0,Right leg in first,Right-handed
+4.0,5.0,7.0,Right leg in first,Right-handed
+9.0,12.0,8.0,I don't know,Right-handed
+8.0,5.0,8.0,Right leg in first,Right-handed
+4.0,5.0,7.0,Right leg in first,Left-handed
+4.0,6.0,8.0,Right leg in first,Right-handed
+8.0,7.0,8.0,I don't know,Right-handed
+7.0,5.0,7.0,Right leg in first,Right-handed
+7.0,5.0,8.0,Right leg in first,Left-handed
+6.0,3.0,6.0,Right leg in first,Right-handed
+6.0,3.0,8.0,I don't know,Right-handed
+7.0,6.0,8.0,Left leg in first,Right-handed
+2.0,5.0,9.0,Right leg in first,Right-handed
+4.0,5.0,9.0,Left leg in first,Right-handed
+3.0,3.0,7.0,Left leg in first,Right-handed
+8.0,5.0,8.0,Left leg in first,Right-handed
+5.0,7.0,7.0,Right leg in first,Right-handed
+8.0,4.0,8.0,Right leg in first,Right-handed
+5.0,3.0,7.0,Right leg in first,Right-handed
+7.0,10.0,8.0,Left leg in first,Right-handed
+6.0,5.0,8.0,I don't know,Right-handed
+5.0,8.0,7.0,Right leg in first,Right-handed
+5.0,5.0,7.0,Left leg in first,Right-handed
+6.0,3.0,7.0,Right leg in first,Right-handed
+5.0,2.0,8.0,Left leg in first,Left-handed
+4.0,2.0,7.0,Right leg in first,Left-handed
+8.0,10.0,8.0,Right leg in first,Right-handed
+2.0,2.0,8.0,I don't know,Right-handed
+3.0,4.0,8.0,Right leg in first,Right-handed
+3.0,3.0,6.0,I don't know,Left-handed
+8.0,8.0,7.0,Right leg in first,Left-handed
+5.0,8.0,8.0,Right leg in first,Left-handed
+8.0,3.0,7.0,Right leg in first,Right-handed
+3.0,4.0,7.0,Left leg in first,Right-handed
+6.0,5.0,8.0,Right leg in first,Right-handed
+4.0,5.0,6.0,Right leg in first,Right-handed
+6.0,7.0,7.0,Left leg in first,Right-handed
+3.0,2.0,9.0,Right leg in first,Right-handed
+2.0,10.0,7.0,Right leg in first,Right-handed
+7.0,6.0,9.0,Left leg in first,Right-handed
+5.0,3.0,7.0,Right leg in first,Right-handed
+5.0,5.0,8.0,Left leg in first,Right-handed
+8.0,6.0,6.0,I don't know,Right-handed
+7.0,8.0,8.0,I don't know,Right-handed
+9.0,6.0,8.0,Left leg in first,Left-handed
+7.0,8.0,9.0,Right leg in first,Right-handed
+7.0,10.0,8.0,I don't know,Left-handed
+4.0,4.0,8.0,Left leg in first,Right-handed
+3.0,6.0,8.0,Right leg in first,Right-handed
+4.0,2.0,6.0,Right leg in first,Right-handed
+5.0,4.0,7.0,I don't know,Right-handed
+10.0,20.0,7.0,Left leg in first,Left-handed
+6.0,15.0,7.0,Right leg in first,Right-handed
+3.0,2.0,7.0,Left leg in first,Right-handed
+8.0,6.0,7.0,Right leg in first,Right-handed
+3.0,4.0,9.0,I don't know,Right-handed
+5.0,4.0,7.0,Right leg in first,Right-handed
+4.0,5.0,7.5,Left leg in first,Right-handed
+5.0,10.0,7.0,Right leg in first,Right-handed
+4.0,10.0,7.0,Right leg in first,Right-handed
+7.0,4.0,5.0,Right leg in first,Right-handed
+6.0,5.0,6.5,Right leg in first,Left-handed
+5.0,10.0,6.0,Left leg in first,Right-handed
+3.0,12.0,7.5,Left leg in first,Right-handed
+4.0,5.0,8.0,Left leg in first,Right-handed
+7.0,5.0,8.0,Left leg in first,Right-handed
+3.0,5.0,6.5,I don't know,Right-handed
+7.0,15.0,7.0,Right leg in first,Right-handed
+4.0,5.0,6.5,Right leg in first,Right-handed
+4.0,3.0,8.0,Right leg in first,Right-handed
+6.0,5.0,6.0,Right leg in first,Right-handed
+3.0,1.0,6.0,I don't know,Right-handed
+5.0,8.0,7.25,Left leg in first,Right-handed
+6.0,10.0,7.0,Right leg in first,Right-handed
+4.0,2.0,5.5,Left leg in first,Right-handed
+3.0,5.0,8.0,I don't know,Right-handed
+3.0,5.0,8.0,Left leg in first,Right-handed
+7.0,5.0,7.0,I don't know,Right-handed
+7.0,6.0,6.0,I don't know,Right-handed
+4.0,3.0,7.0,I don't know,Right-handed
+7.0,5.0,8.0,Left leg in first,Right-handed
+4.0,6.0,7.0,Right leg in first,Right-handed
+5.0,7.0,9.0,Left leg in first,Right-handed
+3.0,5.0,7.0,Right leg in first,Right-handed
+8.0,12.0,7.0,Right leg in first,Right-handed
+8.0,8.0,7.0,Right leg in first,Right-handed
+2.0,5.0,7.0,I don't know,Right-handed
+8.0,10.0,6.0,I don't know,Right-handed
+7.0,8.0,7.0,Left leg in first,Right-handed
+4.0,4.0,9.0,Right leg in first,Right-handed
+9.0,30.0,7.0,Right leg in first,Right-handed
+3.0,4.0,7.0,Left leg in first,Right-handed
+5.0,4.0,8.0,Right leg in first,Left-handed
+8.0,7.0,7.0,Right leg in first,Right-handed
+7.0,10.0,8.0,Left leg in first,Right-handed
+6.0,5.0,7.0,Left leg in first,Right-handed
+5.0,10.0,7.0,Left leg in first,Right-handed
+8.0,5.0,7.0,Right leg in first,Right-handed
+7.0,8.0,8.0,Left leg in first,Right-handed
+3.0,2.0,6.0,I don't know,Right-handed
+7.0,6.0,7.0,Left leg in first,Right-handed
+7.0,8.0,9.0,Left leg in first,Right-handed
+4.0,2.0,7.0,Right leg in first,Right-handed
+8.0,10.0,7.0,Left leg in first,Right-handed
+7.0,5.0,8.0,Right leg in first,Right-handed
+2.0,7.0,8.0,Right leg in first,Right-handed
+2.0,2.0,9.0,Right leg in first,Right-handed
+5.0,20.0,8.0,Right leg in first,Right-handed
+4.0,10.0,7.0,Right leg in first,Right-handed
+2.0,4.0,8.0,I don't know,Right-handed
+7.0,8.0,7.0,Left leg in first,Right-handed
+8.0,4.0,7.0,Left leg in first,Right-handed
+9.0,10.0,7.0,Left leg in first,Right-handed
+6.0,8.0,6.0,Left leg in first,Right-handed
+3.0,10.0,8.0,I don't know,Right-handed
+3.0,0.0,8.0,Left leg in first,Right-handed
+5.0,100.0,8.0,Right leg in first,Right-handed
+7.0,20.0,8.0,Left leg in first,Right-handed
+7.0,4.0,7.0,Left leg in first,Left-handed
+3.0,5.0,7.0,Left leg in first,Right-handed
+3.0,4.0,8.0,Right leg in first,Right-handed
+9.0,5.0,6.0,Left leg in first,Left-handed
+7.0,12.0,6.0,Right leg in first,Right-handed
+4.0,3.0,7.0,Left leg in first,Right-handed
+6.0,5.0,7.0,I don't know,Right-handed
+10.0,10.0,6.0,Left leg in first,Right-handed
+3.0,4.0,8.0,Right leg in first,Right-handed
+9.0,10.0,7.0,I don't know,Right-handed
+7.0,10.0,7.0,Right leg in first,Right-handed
+6.0,5.0,7.0,Right leg in first,Right-handed
+3.0,4.0,8.0,I don't know,Right-handed
+3.0,4.0,6.0,I don't know,Left-handed
+7.0,10.0,8.0,I don't know,Left-handed
+2.0,6.0,7.0,I don't know,Right-handed
+8.0,7.0,7.0,I don't know,Right-handed
+7.0,4.0,8.0,Right leg in first,Right-handed
+3.0,5.0,7.0,Right leg in first,Right-handed
+2.0,2.0,6.0,Left leg in first,Right-handed
+5.0,1.0,6.5,Left leg in first,Right-handed
+9.0,9.0,6.0,Left leg in first,Right-handed
+3.0,3.0,8.0,Right leg in first,Right-handed
+4.0,7.0,7.0,Right leg in first,Right-handed
+6.0,7.0,8.0,I don't know,Right-handed
+8.0,5.0,8.0,Right leg in first,Right-handed
+4.0,5.0,7.0,Left leg in first,Right-handed
+8.0,3.0,6.0,Right leg in first,Right-handed
+8.0,20.0,6.0,Right leg in first,Right-handed
+4.0,5.0,8.0,Right leg in first,Right-handed
+5.0,5.0,7.0,Left leg in first,Right-handed
+6.0,3.0,10.0,I don't know,Left-handed
+3.0,5.0,7.0,Right leg in first,Right-handed
+6.0,6.0,6.5,Left leg in first,Right-handed
+8.0,10.0,7.0,Left leg in first,Right-handed
+7.0,3.0,8.0,Right leg in first,Right-handed
+5.0,6.0,7.0,Left leg in first,Right-handed
+8.0,0.0,9.0,Right leg in first,Right-handed
+4.0,7.0,7.0,Left leg in first,Right-handed
+10.0,5.0,7.0,Right leg in first,Left-handed
+9.0,6.0,7.0,Right leg in first,Right-handed
+5.0,5.0,7.0,Right leg in first,Right-handed
+9.0,8.0,7.0,Right leg in first,Right-handed
+7.0,5.0,7.0,Right leg in first,Right-handed
+7.0,5.0,7.0,Left leg in first,Right-handed
+3.0,3.0,8.0,I don't know,Right-handed
+5.0,2.0,6.0,Right leg in first,Right-handed
+2.0,2.0,6.0,I don't know,Right-handed
+8.0,4.0,8.0,Left leg in first,Right-handed
+3.0,4.0,8.0,Left leg in first,Right-handed
+6.0,8.0,7.0,Right leg in first,Right-handed
+8.0,4.0,6.5,Left leg in first,Right-handed
+9.0,15.0,7.5,Left leg in first,Left-handed
+6.0,8.0,6.0,Left leg in first,Right-handed
+3.0,4.0,5.0,Right leg in first,Right-handed
+4.0,3.0,7.0,Left leg in first,Right-handed
+4.0,12.0,6.0,Right leg in first,Right-handed
+7.0,4.0,6.0,Left leg in first,Right-handed
+7.0,5.0,8.0,Left leg in first,Right-handed
+3.0,4.0,7.5,Left leg in first,Right-handed
+5.0,3.0,8.0,Left leg in first,Right-handed
+3.0,14.0,8.0,Left leg in first,Right-handed
+5.0,10.0,8.0,Left leg in first,Right-handed
+7.0,3.0,6.0,Right leg in first,Right-handed
+3.0,5.0,6.0,Left leg in first,Right-handed
+6.0,9.0,7.0,Left leg in first,Right-handed
+4.0,3.0,7.0,Right leg in first,Right-handed
+3.0,5.0,7.0,Right leg in first,Right-handed
+3.0,2.0,8.0,Left leg in first,Right-handed
+8.0,15.0,7.0,Right leg in first,Right-handed
+4.0,3.0,7.0,Left leg in first,Right-handed
+2.0,4.0,5.0,Right leg in first,Right-handed
+7.0,7.0,7.0,Right leg in first,Right-handed
+4.0,3.0,7.0,Right leg in first,Right-handed
+3.0,5.0,6.0,Right leg in first,Right-handed
+6.0,4.0,7.5,Left leg in first,Right-handed
+4.0,8.0,6.0,Right leg in first,Right-handed
+4.0,5.0,7.0,Right leg in first,Right-handed
+8.0,5.0,6.5,Left leg in first,Left-handed
+10.0,15.0,8.0,Right leg in first,Right-handed
+5.0,5.0,8.0,Left leg in first,Right-handed
+4.0,4.0,8.0,Left leg in first,Right-handed
+10.0,15.0,6.5,Right leg in first,Left-handed
+3.0,3.0,6.0,I don't know,Ambidextrous / It's Complicated
+6.0,5.0,8.0,Right leg in first,Right-handed
+6.0,5.0,6.5,Right leg in first,Right-handed
+2.0,4.0,6.0,Left leg in first,Left-handed
+7.0,3.0,7.0,Left leg in first,Left-handed
+3.0,2.0,7.0,Right leg in first,Right-handed
+9.0,8.0,10.0,I don't know,Right-handed
+5.0,3.0,8.0,Right leg in first,Right-handed
+5.0,3.0,7.0,Left leg in first,Left-handed
+5.0,5.0,7.0,Right leg in first,Right-handed
+5.0,3.0,8.0,Left leg in first,Ambidextrous / It's Complicated
+3.0,5.0,7.5,Right leg in first,Right-handed
+8.0,7.0,8.0,Right leg in first,Ambidextrous / It's Complicated
+7.0,5.0,6.0,Right leg in first,Right-handed
+7.0,5.0,9.0,Right leg in first,Right-handed
+3.0,4.0,8.0,Left leg in first,Right-handed
+10.0,3.0,6.0,Left leg in first,Right-handed
+7.0,7.0,7.0,Right leg in first,Right-handed
+4.0,3.0,7.0,Right leg in first,Right-handed
+7.0,5.0,7.0,I don't know,Right-handed
+7.0,4.0,7.0,Left leg in first,Left-handed
+7.0,6.0,8.0,Left leg in first,Right-handed
+3.0,4.0,8.0,Right leg in first,Right-handed
+3.0,1.0,7.0,Right leg in first,Right-handed
+8.0,15.0,8.0,I don't know,Left-handed
+5.0,3.0,6.0,Right leg in first,Right-handed
+8.0,4.0,6.0,Left leg in first,Left-handed
+6.0,3.0,7.0,Left leg in first,Right-handed
+3.0,5.0,7.0,Right leg in first,Right-handed
+5.0,7.0,8.0,Right leg in first,Right-handed
+2.0,1.0,8.0,Left leg in first,Right-handed
+3.0,2.0,7.0,Left leg in first,Right-handed
+4.0,2.0,8.0,Right leg in first,Right-handed
+4.0,4.0,7.0,Right leg in first,Right-handed
+7.0,10.0,7.0,I don't know,Right-handed
+2.0,2.0,8.0,Right leg in first,Right-handed
+8.0,5.0,7.0,I don't know,Right-handed
+7.0,5.0,6.0,Right leg in first,Right-handed
+7.0,5.0,9.0,I don't know,Right-handed
+4.0,2.0,8.0,Left leg in first,Right-handed
+6.0,4.0,7.0,Left leg in first,Right-handed
+7.0,6.0,8.0,Right leg in first,Right-handed
+3.0,20.0,6.0,Right leg in first,Right-handed
+10.0,1.0,1.0,I don't know,Left-handed
+8.0,12.0,7.5,Left leg in first,Right-handed
+8.0,10.0,6.0,Right leg in first,Right-handed
+8.0,8.0,7.0,Right leg in first,Right-handed
+3.0,10.0,5.0,Right leg in first,Left-handed
+9.0,2.0,7.0,Left leg in first,Right-handed
+7.0,5.0,6.0,Left leg in first,Right-handed
+8.0,20.0,7.0,Left leg in first,Right-handed
+6.0,4.0,7.0,Left leg in first,Right-handed
+3.0,14.0,8.0,Right leg in first,Ambidextrous / It's Complicated
+4.0,11.0,7.0,Right leg in first,Right-handed
+2.0,4.0,7.0,Right leg in first,Right-handed
+2.0,3.0,8.0,I don't know,Right-handed
+3.0,1.0,7.0,Right leg in first,Right-handed
+3.0,3.0,8.0,Right leg in first,Right-handed
+8.0,25.0,7.5,Right leg in first,Right-handed
+7.0,10.0,8.0,Right leg in first,Right-handed
+4.0,3.0,8.0,Right leg in first,Right-handed
+7.0,10.0,8.0,Left leg in first,Right-handed
+9.0,13.0,7.0,Right leg in first,Right-handed
+4.0,5.0,7.0,Left leg in first,Right-handed
+7.0,8.0,7.25,Left leg in first,Right-handed
+3.0,6.0,7.5,Left leg in first,Right-handed
+2.0,2.0,8.0,I don't know,Right-handed
+7.0,8.0,6.0,Left leg in first,Right-handed
+9.0,5.0,8.0,Right leg in first,Right-handed
+3.0,3.0,7.0,Right leg in first,Right-handed
+4.0,6.0,8.0,Left leg in first,Right-handed
+7.0,6.0,7.5,I don't know,Right-handed
+7.0,6.0,8.0,Right leg in first,Right-handed
+7.0,8.0,7.0,Left leg in first,Right-handed
+4.0,4.0,8.0,Right leg in first,Right-handed
+4.0,3.0,8.0,Left leg in first,Right-handed
+7.0,10.0,7.0,Left leg in first,Right-handed
+8.0,10.0,8.0,Left leg in first,Right-handed
+7.0,4.0,7.0,I don't know,Right-handed
+7.0,5.0,8.0,Left leg in first,Ambidextrous / It's Complicated
+4.0,3.0,7.0,Right leg in first,Right-handed
+9.0,20.0,7.0,Left leg in first,Ambidextrous / It's Complicated
+5.0,5.0,8.0,Left leg in first,Right-handed
+3.0,4.0,8.5,Right leg in first,Right-handed
+7.0,20.0,8.0,Left leg in first,Right-handed
+3.0,4.0,6.0,I don't know,Right-handed
+8.0,6.0,7.0,Left leg in first,Right-handed
+7.0,5.0,6.0,Left leg in first,Right-handed
+7.0,5.0,8.0,Left leg in first,Right-handed
+3.0,12.0,6.0,Right leg in first,Right-handed
+8.0,7.0,7.0,Left leg in first,Right-handed
+7.0,3.0,6.0,Right leg in first,Right-handed
+7.0,8.0,7.0,Right leg in first,Right-handed
+5.0,3.0,7.0,Left leg in first,Right-handed
+3.0,2.0,8.0,Right leg in first,Right-handed
+4.0,25.0,6.5,Right leg in first,Right-handed
+7.0,13.0,8.0,I don't know,Right-handed
+6.0,10.0,8.0,I don't know,Right-handed
+5.0,15.0,8.0,Right leg in first,Right-handed
+4.0,4.0,7.0,Right leg in first,Right-handed
+7.0,3.0,7.0,Left leg in first,Right-handed
+4.0,7.0,6.0,Left leg in first,Right-handed
+7.0,12.0,7.0,Right leg in first,Right-handed
+6.0,5.0,7.0,Right leg in first,Right-handed
+3.0,7.0,7.0,Right leg in first,Right-handed
+7.0,8.0,7.0,Right leg in first,Right-handed
+9.0,20.0,7.0,Right leg in first,Right-handed
+6.0,5.0,7.0,Left leg in first,Right-handed
+6.0,7.0,6.0,I don't know,Right-handed
+4.0,3.0,7.0,Left leg in first,Right-handed
+5.0,3.0,8.0,Right leg in first,Right-handed
+3.0,5.0,8.0,Right leg in first,Right-handed
+6.0,7.0,7.0,Right leg in first,Right-handed
+3.0,4.0,7.5,Left leg in first,Ambidextrous / It's Complicated
+3.0,2.0,7.0,Right leg in first,Right-handed
+7.0,8.0,7.0,Right leg in first,Right-handed
+6.0,4.0,9.0,Right leg in first,Right-handed
+5.0,10.0,8.0,Right leg in first,Right-handed
+5.0,3.0,7.0,Right leg in first,Right-handed
+6.0,10.0,7.0,Right leg in first,Right-handed
+3.0,5.0,7.0,Right leg in first,Left-handed
+1.0,3.0,8.0,Right leg in first,Right-handed
+10.0,6.0,7.0,I don't know,Right-handed
+10.0,10.0,7.0,Left leg in first,Right-handed
+4.0,4.0,6.0,Right leg in first,Left-handed
+6.0,5.0,8.0,Right leg in first,Right-handed
+7.0,12.0,6.0,Right leg in first,Right-handed
+3.0,8.0,9.0,Right leg in first,Left-handed
+2.0,4.0,6.0,I don't know,Right-handed
+7.0,3.0,6.0,Right leg in first,Right-handed
+7.0,9.0,8.0,Right leg in first,Right-handed
+7.0,5.0,8.0,I don't know,Right-handed
+4.0,4.0,9.0,Right leg in first,Left-handed
+5.0,2.0,6.0,Right leg in first,Right-handed
+4.0,4.0,8.0,Right leg in first,Right-handed
+5.0,3.0,8.0,Left leg in first,Right-handed
+1.0,2.0,8.0,I don't know,Right-handed
+3.0,2.0,8.0,Right leg in first,Right-handed
+6.0,6.0,6.0,Right leg in first,Right-handed
+9.0,15.0,8.0,Left leg in first,Right-handed
+4.0,3.0,9.0,Left leg in first,Left-handed
+7.0,8.0,7.0,Right leg in first,Right-handed
+7.0,7.0,8.0,Right leg in first,Right-handed
+8.0,5.0,8.0,Left leg in first,Left-handed
+4.0,2.0,7.0,Right leg in first,Right-handed
+7.0,4.0,6.0,Right leg in first,Right-handed
+7.0,9.0,7.0,Left leg in first,Right-handed
+7.0,5.0,6.5,Right leg in first,Right-handed
+7.0,13.0,7.5,Right leg in first,Right-handed
+8.0,10.0,8.0,Right leg in first,Right-handed
+9.0,15.0,8.0,Right leg in first,Right-handed
+8.0,10.0,7.0,Right leg in first,Right-handed
+7.0,6.0,6.0,Right leg in first,Right-handed
+6.0,8.0,6.0,Right leg in first,Right-handed
+3.0,4.0,7.0,I don't know,Right-handed
+5.0,2.0,7.0,Left leg in first,Right-handed
+3.0,3.0,7.0,I don't know,Right-handed
+3.0,6.0,7.0,Left leg in first,Right-handed
+7.0,7.0,8.0,Right leg in first,Right-handed
+5.0,15.0,6.0,Right leg in first,Right-handed
+4.0,5.0,8.0,I don't know,Right-handed
+8.0,12.0,8.0,Right leg in first,Right-handed
+7.0,3.0,7.0,I don't know,Right-handed
+3.0,10.0,8.0,Right leg in first,Right-handed
+4.0,5.0,8.0,Right leg in first,Right-handed
+1.0,4.0,7.0,Right leg in first,Right-handed
+1.0,4.0,8.0,Left leg in first,Right-handed
+4.0,5.0,8.0,Left leg in first,Right-handed
+6.0,5.0,5.0,Right leg in first,Right-handed
+5.0,1.0,7.0,I don't know,Right-handed
+8.0,4.0,7.0,Left leg in first,Right-handed
+5.0,3.0,7.0,I don't know,Right-handed
+4.0,2.0,8.0,Right leg in first,Right-handed
+10.0,5.0,8.0,Right leg in first,Right-handed
+7.0,3.0,8.0,Left leg in first,Right-handed
+4.0,6.0,8.5,Right leg in first,Right-handed
+6.0,6.0,8.0,I don't know,Right-handed
+4.0,8.0,8.0,Left leg in first,Left-handed
+5.0,8.0,6.0,Right leg in first,Right-handed
+4.0,5.0,6.0,Right leg in first,Right-handed
+9.0,13.0,7.0,Left leg in first,Right-handed
+4.0,10.0,8.0,I don't know,Right-handed
+8.0,4.0,7.0,Right leg in first,Right-handed
+7.0,10.0,7.0,Left leg in first,Right-handed
+7.0,30.0,8.0,Right leg in first,Right-handed
+5.0,6.0,8.0,Right leg in first,Right-handed
+5.0,8.0,7.0,Right leg in first,Left-handed
+3.0,2.0,7.0,Left leg in first,Right-handed
+8.0,5.0,8.0,I don't know,Right-handed
+3.0,3.0,8.0,I don't know,Right-handed
+3.0,10.0,7.5,Right leg in first,Right-handed
+7.0,4.0,7.0,Left leg in first,Right-handed
+3.0,10.0,7.0,Right leg in first,Right-handed
+7.0,3.0,7.0,Right leg in first,Right-handed
+7.0,5.0,7.0,Left leg in first,Right-handed
+8.0,3.0,8.0,Right leg in first,Right-handed
+10.0,4.0,5.0,Right leg in first,Right-handed
+8.0,5.0,7.0,Right leg in first,Right-handed
+3.0,3.0,7.0,Left leg in first,Right-handed
+7.0,2.0,6.0,Right leg in first,Right-handed
+8.0,30.0,7.0,Left leg in first,Left-handed
+8.0,5.0,6.0,Right leg in first,Left-handed
+6.0,10.0,8.0,Left leg in first,Right-handed
+4.0,5.0,7.0,I don't know,Right-handed
+8.0,15.0,8.0,Left leg in first,Right-handed
+7.0,10.0,9.0,I don't know,Right-handed
+6.0,15.0,6.0,Right leg in first,Right-handed
+8.0,30.0,7.0,Left leg in first,Right-handed
+8.0,2.0,7.0,Right leg in first,Right-handed
+5.0,5.0,8.0,Right leg in first,Right-handed
+7.0,6.0,6.0,Left leg in first,Right-handed
+7.0,4.0,6.5,Right leg in first,Right-handed
+8.0,5.0,8.0,Left leg in first,Right-handed
+6.0,5.0,7.0,Right leg in first,Right-handed
+6.0,5.0,7.0,Right leg in first,Right-handed
+7.0,2.0,8.0,Left leg in first,Right-handed
+6.0,3.0,7.5,Left leg in first,Right-handed
+6.0,7.0,6.0,Right leg in first,Right-handed
+4.0,15.0,9.0,Right leg in first,Right-handed
+7.0,6.0,6.0,Left leg in first,Right-handed
+7.0,20.0,6.0,Right leg in first,Right-handed
+4.0,3.0,6.0,Right leg in first,Left-handed
+8.0,10.0,6.0,Right leg in first,Right-handed
+6.0,5.0,8.0,Right leg in first,Right-handed
+7.0,18.0,8.0,Left leg in first,Right-handed
+6.0,3.0,7.5,Right leg in first,Right-handed
+7.0,8.0,7.5,I don't know,Right-handed
+8.0,4.0,9.0,Left leg in first,Right-handed
+7.0,5.0,7.0,Right leg in first,Right-handed
+8.0,3.0,6.0,Right leg in first,Left-handed
+7.0,10.0,7.0,I don't know,Right-handed
+5.0,8.0,7.5,Right leg in first,Right-handed
+2.0,3.0,7.0,Right leg in first,Right-handed
+3.0,6.0,7.5,I don't know,Right-handed
+7.0,2.0,8.0,Right leg in first,Right-handed
+7.0,18.0,8.0,Right leg in first,Right-handed
+8.0,17.0,7.0,Right leg in first,Right-handed
+4.0,4.0,7.0,Right leg in first,Right-handed
+7.0,15.0,7.0,Right leg in first,Right-handed
+6.0,5.0,7.0,I don't know,Right-handed
+3.0,3.0,8.0,Left leg in first,Right-handed
+3.0,2.0,8.0,Right leg in first,Right-handed
+4.0,5.0,7.0,Left leg in first,Right-handed
+5.0,15.0,7.0,Right leg in first,Right-handed
+8.0,3.0,7.0,Left leg in first,Right-handed
+4.0,3.0,7.0,I don't know,Right-handed
+6.0,6.0,5.0,Right leg in first,Right-handed
+3.0,10.0,8.0,Left leg in first,Right-handed
+3.0,5.0,8.0,Right leg in first,Right-handed
+7.0,5.0,7.0,Left leg in first,Right-handed
+5.0,10.0,9.0,Right leg in first,Right-handed
+8.0,4.0,6.0,I don't know,Right-handed
+3.0,5.0,7.0,Right leg in first,Right-handed
+7.0,8.0,8.0,Right leg in first,Right-handed
+9.0,20.0,6.0,Right leg in first,Right-handed
+8.0,9.0,5.0,Right leg in first,Right-handed
+6.0,15.0,7.5,Right leg in first,Right-handed
+5.0,12.0,6.5,Right leg in first,Right-handed
+6.0,5.0,7.0,Right leg in first,Right-handed
+7.0,6.0,8.0,Right leg in first,Right-handed
+6.0,5.0,7.0,I don't know,Right-handed
+10.0,15.0,6.0,Right leg in first,Left-handed
+6.0,2.0,6.0,I don't know,Right-handed
+7.0,7.0,7.0,Right leg in first,Right-handed
+3.0,3.0,6.0,Right leg in first,Right-handed
+3.0,3.0,6.0,Left leg in first,Right-handed
+8.0,2.0,5.5,Right leg in first,Ambidextrous / It's Complicated
+8.0,10.0,7.0,Right leg in first,Right-handed
+6.0,10.0,7.0,Right leg in first,Right-handed
+9.0,30.0,7.0,I don't know,Right-handed
+6.0,5.0,7.0,Right leg in first,Right-handed
+3.0,3.0,8.0,Right leg in first,Right-handed
+9.0,6.0,7.0,Right leg in first,Right-handed
+9.0,5.0,7.0,Right leg in first,Right-handed
+4.0,2.0,6.0,Left leg in first,Right-handed
+6.0,15.0,7.0,I don't know,Right-handed
+5.0,12.0,8.0,Right leg in first,Right-handed
+3.0,11.0,7.5,Left leg in first,Right-handed
+7.0,10.0,9.0,Left leg in first,Right-handed
+5.0,5.0,6.0,Right leg in first,Ambidextrous / It's Complicated
+5.0,4.0,7.0,I don't know,Right-handed
+3.0,10.0,8.0,Left leg in first,Right-handed
+8.0,7.0,6.0,Right leg in first,Right-handed
+7.0,5.0,7.0,Right leg in first,Right-handed
+2.0,4.0,6.0,Right leg in first,Right-handed
+4.0,10.0,8.0,Right leg in first,Right-handed
+8.0,15.0,7.0,Left leg in first,Right-handed
+4.0,3.0,7.0,Left leg in first,Right-handed
+9.0,5.0,7.5,Right leg in first,Right-handed
+6.0,4.0,8.0,Right leg in first,Right-handed
+5.0,10.0,6.0,Right leg in first,Right-handed
+6.0,7.0,7.0,Right leg in first,Right-handed
+8.0,3.0,7.0,Right leg in first,Right-handed
+6.0,5.0,6.0,Right leg in first,Right-handed
+3.0,3.0,7.0,Left leg in first,Right-handed
+8.0,7.0,6.0,Right leg in first,Right-handed
+6.0,4.0,8.0,I don't know,Right-handed
+8.0,12.0,7.0,Left leg in first,Right-handed
+9.0,7.0,6.0,Left leg in first,Right-handed
+7.0,5.0,7.0,Right leg in first,Left-handed
+5.0,10.0,7.0,Right leg in first,Right-handed
+4.0,4.0,8.0,I don't know,Right-handed
+4.0,10.0,8.0,Right leg in first,Left-handed
+7.0,5.0,6.0,Left leg in first,Right-handed
+3.0,3.0,10.0,Right leg in first,Right-handed
+5.0,8.0,8.0,I don't know,Right-handed
+7.0,3.0,7.0,Right leg in first,Right-handed
+6.0,20.0,7.0,Left leg in first,Right-handed
+8.0,7.0,7.0,Right leg in first,Right-handed
+3.0,7.0,6.0,Right leg in first,Right-handed
+6.0,3.0,8.0,Left leg in first,Right-handed
+7.0,5.0,8.0,I don't know,Right-handed
+6.0,6.0,8.0,Right leg in first,Right-handed
+3.0,4.0,7.0,Right leg in first,Right-handed
+3.0,3.0,7.0,Left leg in first,Right-handed
+5.0,3.0,6.0,Right leg in first,Right-handed
+4.0,10.0,7.0,Left leg in first,Right-handed
+6.0,30.0,8.5,Right leg in first,Left-handed
+7.0,10.0,6.0,Right leg in first,Right-handed
+5.0,3.0,6.0,Right leg in first,Right-handed
+7.0,5.0,7.0,I don't know,Right-handed
+3.0,1.0,7.0,I don't know,Right-handed
+5.0,3.0,8.0,Right leg in first,Left-handed
+8.0,10.0,8.0,Left leg in first,Right-handed
+7.0,10.0,8.0,I don't know,Right-handed
+7.0,6.0,8.0,Right leg in first,Right-handed
+7.0,10.0,9.0,I don't know,Right-handed
+6.0,12.0,6.0,Left leg in first,Right-handed
+3.0,2.0,7.0,Left leg in first,Right-handed
+7.0,5.0,8.0,Left leg in first,Right-handed
+3.0,10.0,7.0,Right leg in first,Right-handed
+6.0,4.0,6.0,Right leg in first,Right-handed
+3.0,5.0,8.0,Right leg in first,Right-handed
+9.0,7.0,6.0,Left leg in first,Right-handed
+10.0,5.0,6.0,Right leg in first,Right-handed
+7.0,10.0,8.0,Left leg in first,Right-handed
+9.0,5.0,6.0,Right leg in first,Right-handed
+8.0,15.0,8.0,Left leg in first,Right-handed
+5.0,9.0,7.0,Right leg in first,Right-handed
+8.0,10.0,7.0,Right leg in first,Right-handed
+8.0,60.0,5.0,Left leg in first,Right-handed
+6.0,4.0,8.0,Right leg in first,Right-handed
+6.0,10.0,8.0,Right leg in first,Right-handed
+9.0,6.0,8.0,Right leg in first,Right-handed
+6.0,10.0,6.0,Left leg in first,Right-handed
+7.0,4.0,7.0,Left leg in first,Left-handed
+4.0,10.0,8.0,Right leg in first,Right-handed
+4.0,20.0,8.0,Right leg in first,Right-handed
+3.0,8.0,8.0,I don't know,Right-handed
+6.0,4.0,7.0,Right leg in first,Right-handed
+5.0,5.0,7.0,Right leg in first,Right-handed
+5.0,3.0,7.0,I don't know,Right-handed
+4.0,6.0,7.0,I don't know,Right-handed
+4.0,10.0,7.0,Left leg in first,Right-handed
+7.0,10.0,8.0,Right leg in first,Right-handed
+2.0,4.0,7.0,Right leg in first,Right-handed
+3.0,3.0,6.0,Left leg in first,Right-handed
+7.0,5.0,6.0,Right leg in first,Right-handed
+5.0,8.0,6.0,I don't know,Right-handed
+9.0,15.0,6.0,Right leg in first,Right-handed
+7.0,5.0,8.0,Left leg in first,Left-handed
+4.0,2.0,5.0,Right leg in first,Right-handed
+2.0,5.0,8.0,Left leg in first,Left-handed
+7.0,15.0,7.0,Left leg in first,Right-handed
+4.0,3.0,8.0,Left leg in first,Right-handed
+6.0,15.0,8.5,Right leg in first,Right-handed
+6.0,4.0,8.0,Right leg in first,Right-handed
+3.0,4.0,9.0,I don't know,Right-handed
+7.0,2.0,7.0,Right leg in first,Right-handed
+8.0,10.0,7.0,Right leg in first,Right-handed
+3.0,3.0,8.5,I don't know,Right-handed
+5.0,4.0,8.0,Left leg in first,Right-handed
+8.0,3.0,7.0,Right leg in first,Right-handed
+5.0,5.0,7.0,Right leg in first,Right-handed
+3.0,10.0,7.0,Right leg in first,Right-handed
+7.0,6.0,7.0,Right leg in first,Right-handed
+5.0,5.0,7.0,Right leg in first,Ambidextrous / It's Complicated
+8.0,6.0,8.0,Right leg in first,Right-handed
+6.0,4.0,7.0,Right leg in first,Right-handed
+5.0,15.0,8.0,Right leg in first,Right-handed
+8.0,10.0,7.0,Left leg in first,Right-handed
+4.0,4.0,8.0,Right leg in first,Right-handed
+7.0,30.0,6.5,Left leg in first,Right-handed
+3.0,6.0,7.0,Right leg in first,Right-handed
+7.0,5.0,8.0,I don't know,Right-handed
+10.0,4.0,7.0,Left leg in first,Right-handed
+6.0,4.0,8.0,Left leg in first,Right-handed
+1.0,4.0,8.0,I don't know,Right-handed
+6.0,5.0,6.0,Left leg in first,Right-handed
+3.0,9.0,7.5,Right leg in first,Right-handed
+4.0,10.0,7.0,Left leg in first,Right-handed
+7.0,20.0,8.0,Left leg in first,Right-handed
+3.0,10.0,6.5,Left leg in first,Right-handed
+3.0,10.0,8.0,Right leg in first,Right-handed
+5.0,10.0,8.0,Left leg in first,Right-handed
+8.0,15.0,7.5,Right leg in first,Right-handed
+4.0,5.0,9.0,Left leg in first,Right-handed
+6.0,5.0,7.0,Right leg in first,Right-handed
+3.0,2.0,7.0,I don't know,Right-handed
+6.0,5.0,8.0,Right leg in first,Right-handed
+4.0,10.0,9.0,I don't know,Right-handed
+6.0,10.0,7.0,Right leg in first,Right-handed
+7.0,10.0,7.0,I don't know,Right-handed
+7.0,7.0,6.0,Left leg in first,Right-handed
+7.0,4.0,7.0,Right leg in first,Right-handed
+4.0,10.0,8.0,I don't know,Right-handed
+7.0,7.0,8.0,Right leg in first,Right-handed
+8.0,15.0,7.0,Right leg in first,Right-handed
+5.0,4.0,6.0,Right leg in first,Right-handed
+8.0,13.0,7.0,Right leg in first,Right-handed
+4.0,7.0,8.0,Right leg in first,Right-handed
+3.0,3.0,7.0,I don't know,Right-handed
+2.0,3.0,7.0,Right leg in first,Right-handed
+5.0,3.0,8.0,Right leg in first,Right-handed
+5.0,7.0,7.0,Left leg in first,Right-handed
+6.0,5.0,7.0,Right leg in first,Right-handed
+4.0,10.0,8.0,Left leg in first,Right-handed
+3.0,5.0,7.0,Left leg in first,Right-handed
+9.0,20.0,8.0,I don't know,Right-handed
+3.0,4.0,7.0,Left leg in first,Right-handed
+3.0,2.0,7.0,Left leg in first,Right-handed
+1.0,5.0,8.0,Left leg in first,Right-handed
+4.0,4.0,8.0,I don't know,Left-handed
+4.0,10.0,7.0,Left leg in first,Right-handed
+6.0,4.0,7.5,Left leg in first,Right-handed
+7.0,7.0,6.0,Right leg in first,Right-handed
+7.0,10.0,7.0,Right leg in first,Right-handed
+6.0,13.0,9.0,Left leg in first,Right-handed
+6.0,8.0,8.0,Left leg in first,Left-handed
+7.0,7.0,7.5,I don't know,Right-handed
+7.0,10.0,8.0,Left leg in first,Right-handed
+3.0,5.0,1.0,Right leg in first,Right-handed
+4.0,4.0,7.0,Left leg in first,Right-handed
+3.0,5.0,6.0,Left leg in first,Right-handed
+4.0,5.0,6.0,Right leg in first,Right-handed
+4.0,10.0,6.0,Right leg in first,Right-handed
+7.0,11.0,6.0,Right leg in first,Right-handed
+3.0,4.0,7.0,Left leg in first,Right-handed
+4.0,1.0,8.0,Right leg in first,Right-handed
+8.0,15.0,7.0,Right leg in first,Right-handed
+4.0,4.0,8.0,I don't know,Right-handed
+5.0,7.0,7.0,Right leg in first,Right-handed
+5.0,9.0,8.0,Right leg in first,Right-handed
+8.0,3.0,8.0,Right leg in first,Right-handed
+5.0,5.0,7.0,Right leg in first,Right-handed
+5.0,2.0,8.5,Left leg in first,Right-handed
+5.0,10.0,8.0,Right leg in first,Right-handed
+7.0,10.0,6.0,I don't know,Left-handed
+9.0,4.0,8.0,Right leg in first,Left-handed
+8.0,4.0,8.0,Right leg in first,Right-handed
+4.0,2.0,7.0,Left leg in first,Right-handed
+5.0,4.0,9.0,Left leg in first,Right-handed
+8.0,25.0,8.0,Right leg in first,Left-handed
+8.0,2.0,8.0,Right leg in first,Right-handed
+8.0,12.0,7.0,Left leg in first,Right-handed
+6.0,10.0,8.0,Left leg in first,Left-handed
+5.0,4.0,7.0,Left leg in first,Right-handed
+8.0,5.0,7.0,Left leg in first,Right-handed
+7.0,3.0,8.5,Left leg in first,Left-handed
+7.0,15.0,7.0,Left leg in first,Right-handed
+7.0,20.0,7.0,Left leg in first,Right-handed
+3.0,2.0,7.0,I don't know,Right-handed
+4.0,5.0,7.0,Left leg in first,Right-handed
+7.0,5.0,7.0,I don't know,Right-handed
+6.0,5.0,8.0,Right leg in first,Right-handed
+6.0,7.0,7.0,Right leg in first,Right-handed
+7.0,8.0,7.0,Left leg in first,Left-handed
+2.0,5.0,6.0,Right leg in first,Right-handed
+6.0,5.0,8.0,Left leg in first,Left-handed
+4.0,3.0,7.0,Right leg in first,Right-handed
+4.0,4.0,6.0,Left leg in first,Left-handed
+7.0,2.0,8.0,Right leg in first,Right-handed
+8.0,3.0,6.0,Right leg in first,Right-handed
+8.0,10.0,8.0,Left leg in first,Left-handed
+9.0,3.0,6.0,Right leg in first,Right-handed
+3.0,6.0,7.0,Right leg in first,Right-handed
+5.0,7.0,7.0,Right leg in first,Right-handed
+4.0,3.0,9.0,Right leg in first,Right-handed
+7.0,3.0,6.0,Left leg in first,Right-handed
+5.0,10.0,7.0,Left leg in first,Right-handed
+7.0,15.0,6.0,Right leg in first,Right-handed
+2.0,8.0,7.0,Right leg in first,Right-handed
+4.0,5.0,6.0,Right leg in first,Right-handed
+5.0,5.0,7.0,Left leg in first,Right-handed
+8.0,4.0,6.5,Right leg in first,Right-handed
+5.0,4.0,7.0,Left leg in first,Right-handed
+8.0,4.0,7.0,Right leg in first,Right-handed
+4.0,5.0,6.0,Left leg in first,Right-handed
+3.0,7.0,8.0,Left leg in first,Right-handed
+10.0,15.0,9.0,Right leg in first,Right-handed
+8.0,16.0,6.0,Right leg in first,Right-handed
+7.0,1.0,7.0,Right leg in first,Right-handed
+8.0,10.0,8.0,Right leg in first,Right-handed
+4.0,5.0,5.0,Left leg in first,Right-handed
+8.0,8.0,6.0,Right leg in first,Right-handed
+7.0,12.0,8.0,Left leg in first,Right-handed
+7.0,4.0,7.0,Right leg in first,Right-handed
+3.0,3.0,5.0,Left leg in first,Left-handed
+8.0,7.0,7.0,Right leg in first,Right-handed
+7.0,12.0,8.0,Right leg in first,Left-handed
+5.0,8.0,8.0,Right leg in first,Right-handed
+5.0,5.0,7.0,I don't know,Left-handed
+5.0,7.0,7.0,Right leg in first,Right-handed
+2.0,0.0,6.0,I don't know,Right-handed
+8.0,8.0,7.0,Right leg in first,Right-handed
+5.0,3.0,6.0,I don't know,Right-handed
+2.0,3.0,6.0,I don't know,Right-handed
+1.0,6.0,5.0,Right leg in first,Right-handed
+5.0,3.0,7.0,Right leg in first,Right-handed
+7.0,10.0,8.0,Right leg in first,Right-handed
+7.0,100.0,5.0,Left leg in first,Right-handed
+5.0,2.0,5.0,Right leg in first,Right-handed
+5.0,8.0,7.0,Right leg in first,Right-handed
+2.0,0.0,5.0,I don't know,Right-handed
+3.0,2.0,4.0,Right leg in first,Right-handed
+3.0,5.0,7.0,Left leg in first,Right-handed
+7.0,15.0,8.0,Right leg in first,Right-handed
+10.0,8.0,7.0,Left leg in first,Left-handed
+4.0,2.0,6.0,Right leg in first,Right-handed
+5.0,5.0,9.0,Left leg in first,Right-handed
+6.0,25.0,8.0,Right leg in first,Right-handed
+10.0,60.0,7.0,Right leg in first,Right-handed
+6.0,15.0,8.0,Right leg in first,Right-handed
+7.0,15.0,7.0,Right leg in first,Right-handed
+8.0,11.0,7.0,Right leg in first,Right-handed
+5.0,3.0,6.0,Left leg in first,Right-handed
+7.0,20.0,7.0,Left leg in first,Right-handed
+5.0,5.0,7.0,Right leg in first,Right-handed
+7.0,4.0,8.0,Left leg in first,Right-handed
+4.0,4.0,7.0,Right leg in first,Right-handed
+6.0,6.0,8.0,Right leg in first,Right-handed
+6.0,8.0,7.0,Right leg in first,Right-handed
+4.0,5.0,8.0,Right leg in first,Right-handed
+7.0,6.0,7.0,Left leg in first,Right-handed
+8.0,4.0,6.0,Right leg in first,Right-handed
+8.0,15.0,7.0,Right leg in first,Right-handed
+3.0,18.0,7.0,Left leg in first,Right-handed
+8.0,5.0,7.0,Right leg in first,Right-handed
+7.0,8.0,7.0,Left leg in first,Right-handed
+5.0,4.0,7.75,Right leg in first,Right-handed
+8.0,8.0,7.0,Left leg in first,Right-handed
+4.0,5.0,6.0,Left leg in first,Right-handed
+4.0,3.0,8.0,Right leg in first,Right-handed
+8.0,10.0,8.0,Left leg in first,Right-handed
+7.0,4.0,7.0,Left leg in first,Right-handed
+8.0,7.0,6.5,Right leg in first,Right-handed
+3.0,5.0,7.0,I don't know,Right-handed
+8.0,10.0,7.0,Right leg in first,Right-handed
+6.0,5.0,7.0,I don't know,Right-handed
+6.0,4.0,8.0,I don't know,Right-handed
+7.0,8.0,7.0,Right leg in first,Right-handed
+7.0,10.0,7.0,Right leg in first,Ambidextrous / It's Complicated
+9.0,10.0,9.0,Right leg in first,Right-handed
+7.0,4.0,8.0,Right leg in first,Right-handed
+6.0,6.0,8.0,Right leg in first,Right-handed
+3.0,4.0,7.0,Left leg in first,Right-handed
+5.0,2.0,7.0,Right leg in first,Right-handed
+5.0,8.0,7.0,Right leg in first,Right-handed
+8.0,10.0,5.0,Right leg in first,Right-handed
+9.0,7.0,5.0,Left leg in first,Right-handed
+7.0,6.0,7.0,Right leg in first,Right-handed
+7.0,5.0,9.0,Left leg in first,Right-handed
+2.0,1.0,7.0,Left leg in first,Right-handed
+7.0,10.0,6.0,Right leg in first,Right-handed
+7.0,3.0,7.0,I don't know,Right-handed
+8.0,5.0,9.0,I don't know,Right-handed
+7.0,6.0,7.0,Left leg in first,Right-handed
+7.0,10.0,9.0,Right leg in first,Right-handed
+6.0,10.0,6.0,Left leg in first,Right-handed
+10.0,10.0,5.0,Right leg in first,Left-handed
+7.0,20.0,6.0,Right leg in first,Right-handed
+8.0,6.0,8.0,Right leg in first,Left-handed
+5.0,8.0,7.0,Right leg in first,Right-handed
+5.0,7.0,7.5,Right leg in first,Right-handed
+9.0,30.0,7.0,Left leg in first,Right-handed
+7.0,4.0,7.0,Right leg in first,Right-handed
+5.0,10.0,7.0,Right leg in first,Right-handed
+4.0,4.0,7.5,Left leg in first,Right-handed
+7.0,3.0,7.0,Left leg in first,Right-handed
+5.0,5.0,6.0,Left leg in first,Ambidextrous / It's Complicated
+3.0,10.0,5.0,Left leg in first,Right-handed
+4.0,4.0,6.0,Left leg in first,Right-handed
+8.0,5.0,8.0,Left leg in first,Right-handed
+3.0,8.0,6.0,Right leg in first,Left-handed
+5.0,10.0,6.0,Right leg in first,Right-handed
+7.0,5.0,7.5,Right leg in first,Right-handed
+8.0,10.0,5.0,Right leg in first,Right-handed
+5.0,2.0,8.0,Left leg in first,Left-handed
+7.0,8.0,6.5,Left leg in first,Right-handed
+4.0,6.0,7.0,Left leg in first,Left-handed
+2.0,7.0,6.0,Left leg in first,Right-handed
+4.0,10.0,7.0,Right leg in first,Right-handed
+1.0,3.0,0.0,I don't know,Right-handed
+9.0,15.0,7.0,Left leg in first,Right-handed
+5.0,2.0,8.0,Right leg in first,Right-handed
+7.0,5.0,6.0,I don't know,Ambidextrous / It's Complicated
+6.0,7.0,7.0,Right leg in first,Right-handed
+5.0,4.0,5.0,I don't know,Right-handed
+9.0,8.0,7.5,Right leg in first,Right-handed
+8.0,15.0,7.0,Right leg in first,Right-handed
+6.0,5.0,7.0,Right leg in first,Right-handed
+5.0,7.0,7.0,Right leg in first,Right-handed
+9.0,10.0,8.5,Left leg in first,Ambidextrous / It's Complicated
+9.0,7.0,7.0,Left leg in first,Right-handed
+8.0,5.0,8.0,Right leg in first,Right-handed
+5.0,3.0,8.0,Right leg in first,Right-handed
+6.0,5.0,8.0,Left leg in first,Right-handed
+5.0,2.0,6.0,Left leg in first,Right-handed
+6.0,10.0,7.0,I don't know,Right-handed
+8.0,10.0,8.0,Right leg in first,Right-handed
+7.0,15.0,9.0,Right leg in first,Right-handed
+4.0,2.0,8.0,Right leg in first,Ambidextrous / It's Complicated
+5.0,5.0,7.0,Left leg in first,Right-handed
+8.0,3.0,6.0,Right leg in first,Right-handed
+3.0,2.0,9.0,Left leg in first,Right-handed
+5.0,8.0,7.0,Right leg in first,Right-handed
+5.0,6.0,6.0,Right leg in first,Right-handed
+7.0,8.0,8.0,Right leg in first,Right-handed
+8.0,10.0,7.0,Left leg in first,Right-handed
+7.0,10.0,7.0,Right leg in first,Right-handed
+9.0,4.0,6.0,Right leg in first,Right-handed
+5.0,5.0,8.0,Right leg in first,Right-handed
+4.0,4.0,6.0,Right leg in first,Right-handed
+4.0,4.0,7.0,Right leg in first,Right-handed
+5.0,9.0,8.0,Right leg in first,Right-handed
+3.0,8.0,7.0,Right leg in first,Right-handed
+7.0,3.0,7.0,Right leg in first,Right-handed
+8.0,20.0,7.0,Right leg in first,Right-handed
+7.0,9.0,8.0,Left leg in first,Right-handed
+4.0,10.0,7.0,Right leg in first,Left-handed
+7.0,6.0,8.0,Left leg in first,Right-handed
+7.0,18.0,7.0,I don't know,Right-handed
+5.0,5.0,7.0,Left leg in first,Right-handed
+5.0,3.0,5.0,Right leg in first,Right-handed
+5.0,3.0,7.0,Right leg in first,Right-handed
+5.0,3.0,7.0,Left leg in first,Right-handed
+5.0,4.0,5.0,Right leg in first,Right-handed
+8.0,4.0,7.5,Right leg in first,Right-handed
+3.0,2.0,8.0,Left leg in first,Right-handed
+7.0,6.0,6.0,I don't know,Right-handed
+5.0,5.0,8.0,I don't know,Right-handed
+4.0,2.0,6.0,Right leg in first,Right-handed
+8.0,15.0,8.0,Right leg in first,Right-handed
+5.0,5.0,5.0,Left leg in first,Right-handed
+3.0,5.0,7.0,Right leg in first,Right-handed
+7.0,6.0,8.0,I don't know,Right-handed
+6.0,3.0,8.0,Left leg in first,Right-handed
+7.0,6.0,7.0,Right leg in first,Right-handed
+4.0,6.0,7.0,Right leg in first,Right-handed
+5.0,10.0,7.0,Right leg in first,Right-handed
+6.0,4.0,7.0,Right leg in first,Right-handed
+6.0,7.0,6.0,Left leg in first,Right-handed
+7.0,5.0,7.0,Right leg in first,Right-handed
+8.0,8.0,8.0,Left leg in first,Right-handed
+5.0,5.0,6.0,Left leg in first,Right-handed
+8.0,15.0,8.0,I don't know,Right-handed
+2.0,10.0,6.0,Right leg in first,Right-handed
+9.0,6.0,7.0,Right leg in first,Right-handed
+4.0,1.0,8.0,Left leg in first,Right-handed
+3.0,4.0,7.0,Left leg in first,Right-handed
+3.0,2.0,4.0,Right leg in first,Right-handed
+7.0,10.0,7.0,Right leg in first,Right-handed
+8.0,4.0,6.0,Left leg in first,Right-handed
+5.0,3.0,7.0,Left leg in first,Right-handed
+6.0,5.0,6.0,Left leg in first,Right-handed
+8.0,5.0,7.0,Right leg in first,Right-handed
+4.0,8.0,7.0,Right leg in first,Right-handed
+6.0,5.0,8.0,Right leg in first,Right-handed
+6.0,4.0,7.0,Right leg in first,Right-handed
+5.0,15.0,7.0,Left leg in first,Right-handed
+4.0,2.0,8.0,Left leg in first,Right-handed
+4.0,5.0,8.0,Left leg in first,Left-handed
+3.0,5.0,8.0,Left leg in first,Right-handed
+5.0,15.0,8.0,Right leg in first,Right-handed
+8.0,10.0,6.0,Right leg in first,Right-handed
+7.0,8.0,6.0,Left leg in first,Right-handed
+8.0,10.0,7.0,Right leg in first,Right-handed
+6.0,4.0,7.0,Left leg in first,Right-handed
+7.0,3.0,6.0,Right leg in first,Right-handed
+9.0,10.0,8.0,Right leg in first,Left-handed
+6.0,2.0,7.0,Right leg in first,Right-handed
+5.0,7.0,7.0,Right leg in first,Right-handed
+6.0,7.0,8.0,Right leg in first,Right-handed
+3.0,2.0,6.0,I don't know,Right-handed
+6.0,8.0,7.0,Right leg in first,Right-handed
+4.0,7.0,6.0,Right leg in first,Right-handed
+5.0,3.0,7.0,Left leg in first,Right-handed
+4.0,3.0,7.0,Left leg in first,Right-handed
+7.0,3.0,8.0,Left leg in first,Right-handed
+6.0,4.0,7.5,Right leg in first,Right-handed
+4.0,10.0,7.0,Left leg in first,Right-handed
+9.0,15.0,6.0,Left leg in first,Right-handed
+4.0,4.0,9.0,Right leg in first,Right-handed
+2.0,6.0,6.0,I don't know,Right-handed
+7.0,7.0,7.0,Right leg in first,Right-handed
+9.0,10.0,7.0,Right leg in first,Right-handed
+8.0,50.0,7.0,Left leg in first,Right-handed
+5.0,8.0,8.0,Right leg in first,Right-handed
+5.0,3.0,6.0,I don't know,Left-handed
+7.0,9.0,7.0,I don't know,Right-handed
+3.0,2.0,7.0,Right leg in first,Right-handed
+8.0,6.0,7.0,Right leg in first,Right-handed
+7.0,10.0,7.0,Left leg in first,Right-handed
+7.0,20.0,9.0,Left leg in first,Right-handed
+7.0,8.0,7.0,Right leg in first,Right-handed
+8.0,15.0,7.0,Right leg in first,Right-handed
+4.0,3.0,7.0,Left leg in first,Right-handed
+9.0,10.0,7.0,Right leg in first,Right-handed
+3.0,20.0,6.0,Right leg in first,Right-handed
+5.0,5.0,5.0,Right leg in first,Right-handed
+2.0,3.0,9.0,Right leg in first,Right-handed
+10.0,27.0,5.0,I don't know,Right-handed
+4.0,7.0,6.0,Left leg in first,Right-handed
+4.0,5.0,6.0,Left leg in first,Left-handed
+8.0,15.0,7.0,I don't know,Right-handed
+3.0,5.0,7.0,Right leg in first,Right-handed
+7.0,8.0,5.0,Right leg in first,Left-handed
+7.0,3.0,6.0,Left leg in first,Right-handed
+4.0,6.0,5.0,Right leg in first,Right-handed
+8.0,8.0,6.0,Left leg in first,Right-handed
+4.0,4.0,6.0,Right leg in first,Right-handed
+6.0,6.0,6.0,Right leg in first,Right-handed
+3.0,10.0,6.0,Right leg in first,Right-handed
+6.0,5.0,7.0,Left leg in first,Right-handed
+7.0,3.0,6.0,Right leg in first,Right-handed
+5.0,5.0,7.0,Left leg in first,Right-handed
+8.0,3.0,6.0,Left leg in first,Right-handed
+3.0,2.0,6.0,I don't know,Right-handed
+7.0,5.0,8.0,Left leg in first,Right-handed
+2.0,4.0,8.0,Left leg in first,Right-handed
+4.0,3.0,6.0,Left leg in first,Right-handed
+7.0,8.0,7.0,Left leg in first,Right-handed
+5.0,3.0,7.0,Left leg in first,Right-handed
+4.0,4.0,6.0,Right leg in first,Right-handed
+8.0,5.0,8.0,Left leg in first,Right-handed
+3.0,10.0,8.5,Left leg in first,Right-handed
+4.0,5.0,7.0,Left leg in first,Left-handed
+5.0,3.0,7.0,Right leg in first,Right-handed
+3.0,3.0,7.0,I don't know,Right-handed
+4.0,10.0,7.0,Right leg in first,Right-handed
+8.0,4.0,7.0,Left leg in first,Right-handed
+6.0,4.0,6.0,Left leg in first,Right-handed
+8.0,8.0,6.5,Left leg in first,Right-handed
+7.0,10.0,8.0,Left leg in first,Right-handed
+5.0,3.0,7.0,Right leg in first,Right-handed
+7.0,10.0,7.0,Right leg in first,Right-handed
+10.0,10.0,7.0,Left leg in first,Left-handed
+5.0,3.0,8.0,Left leg in first,Right-handed
+8.0,10.0,7.0,I don't know,Right-handed
+5.0,3.0,6.0,Right leg in first,Right-handed
+6.0,5.0,6.0,Left leg in first,Right-handed
+7.0,3.0,6.0,Right leg in first,Right-handed
+7.0,6.0,8.0,Right leg in first,Right-handed
+7.0,10.0,7.0,Right leg in first,Right-handed
+8.0,20.0,7.0,Left leg in first,Right-handed
+8.0,15.0,8.0,I don't know,Right-handed
+6.0,15.0,7.0,Right leg in first,Right-handed
+8.0,7.0,7.0,Left leg in first,Left-handed
+5.0,3.0,8.0,I don't know,Right-handed
+7.0,12.0,7.0,I don't know,Right-handed
+6.0,15.0,6.0,Right leg in first,Right-handed
+5.0,4.0,7.0,I don't know,Right-handed
+9.0,15.0,7.5,I don't know,Right-handed
+7.0,5.0,8.0,Left leg in first,Right-handed
+1.0,1.0,8.0,I don't know,Left-handed
+6.0,6.0,7.0,Right leg in first,Right-handed
+7.0,5.0,7.0,Left leg in first,Right-handed
+9.0,21.0,7.0,Right leg in first,Right-handed
+9.0,5.0,9.0,Right leg in first,Right-handed
+8.0,40.0,6.0,Right leg in first,Right-handed
+4.0,5.0,8.0,Right leg in first,Right-handed
+6.0,10.0,5.0,Left leg in first,Right-handed
+8.0,6.0,6.0,Left leg in first,Right-handed
+4.0,15.0,6.0,Left leg in first,Right-handed
+8.0,7.0,8.0,Left leg in first,Right-handed
+8.0,7.0,6.0,Left leg in first,Right-handed
+4.0,4.0,7.0,Right leg in first,Right-handed
+7.0,15.0,6.0,Left leg in first,Right-handed
+5.0,5.0,8.5,I don't know,Left-handed
+7.0,10.0,7.0,Left leg in first,Right-handed
+4.0,6.0,7.0,I don't know,Right-handed
+3.0,4.0,6.0,I don't know,Right-handed
+5.0,10.0,8.0,I don't know,Right-handed
+1.0,2.0,8.0,Left leg in first,Right-handed
+8.0,10.0,8.0,Left leg in first,Right-handed
+8.0,5.0,7.0,Left leg in first,Right-handed
+2.0,10.0,8.0,I don't know,Right-handed
+5.0,4.0,5.0,Left leg in first,Left-handed
+8.0,20.0,7.0,Right leg in first,Right-handed
+5.0,10.0,8.0,Right leg in first,Right-handed
+5.0,3.0,6.0,Right leg in first,Right-handed
+3.0,5.0,7.0,Left leg in first,Right-handed
+9.0,9.0,7.0,I don't know,Right-handed
+4.0,6.0,8.0,Right leg in first,Right-handed
+3.0,5.0,5.0,Right leg in first,Right-handed
+3.0,8.0,6.0,I don't know,Right-handed
+2.0,3.0,6.0,Right leg in first,Right-handed
+8.0,6.0,7.0,Right leg in first,Right-handed
+8.0,3.0,8.0,Right leg in first,Right-handed
+8.0,6.0,7.0,I don't know,Left-handed
+7.0,3.0,6.5,I don't know,Right-handed
+5.0,3.0,8.0,Left leg in first,Right-handed
+8.0,6.0,7.0,Right leg in first,Right-handed
+6.0,8.0,8.0,Left leg in first,Right-handed
+9.0,10.0,7.0,Left leg in first,Right-handed
+8.0,7.0,5.0,Left leg in first,Right-handed
+8.0,7.0,7.0,Right leg in first,Right-handed
+7.0,12.0,7.0,Right leg in first,Right-handed
+8.0,10.0,8.0,I don't know,Right-handed
+7.0,6.0,8.0,Left leg in first,Right-handed
+6.0,5.0,8.0,Right leg in first,Right-handed
+6.0,7.0,8.0,Left leg in first,Right-handed
+8.0,15.0,7.0,Right leg in first,Right-handed
+5.0,5.0,7.0,Left leg in first,Right-handed
+5.0,3.0,5.0,Right leg in first,Right-handed
+6.0,2.0,7.0,Left leg in first,Left-handed
+6.0,6.0,7.0,I don't know,Right-handed
+6.0,20.0,6.0,Left leg in first,Right-handed
+5.0,4.0,7.0,Left leg in first,Right-handed
+5.0,5.0,7.0,I don't know,Right-handed
+5.0,10.0,8.0,Right leg in first,Right-handed
+3.0,5.0,7.0,Right leg in first,Right-handed
+5.0,6.0,7.0,Left leg in first,Right-handed
+6.0,6.0,5.0,Right leg in first,Right-handed
+4.0,2.0,7.0,Right leg in first,Right-handed
+7.0,5.0,7.0,Right leg in first,Right-handed
+7.0,4.0,7.0,I don't know,Right-handed
+5.0,12.0,7.0,Right leg in first,Right-handed
+6.0,6.0,5.0,Right leg in first,Right-handed
+4.0,3.0,5.0,Left leg in first,Right-handed
+8.0,9.0,8.0,Right leg in first,Right-handed
+8.0,3.0,8.0,Right leg in first,Right-handed
+3.0,3.0,8.0,I don't know,Right-handed
+3.0,6.0,7.0,Right leg in first,Right-handed
+7.0,5.0,7.0,Left leg in first,Right-handed
+2.0,5.0,8.0,I don't know,Right-handed
+3.0,5.0,6.0,Left leg in first,Right-handed
+6.0,5.0,7.0,Right leg in first,Right-handed
+6.0,8.0,6.0,Right leg in first,Right-handed
+7.0,5.0,8.0,Right leg in first,Right-handed
+8.0,10.0,8.0,Left leg in first,Left-handed
+8.0,10.0,6.0,Right leg in first,Right-handed
+7.0,10.0,7.0,I don't know,Right-handed
+5.0,3.0,7.5,I don't know,Right-handed
+9.0,10.0,7.0,Right leg in first,Right-handed
+6.0,10.0,6.0,Right leg in first,Right-handed
+4.0,6.0,7.0,Right leg in first,Right-handed
+7.0,6.0,6.0,I don't know,Right-handed
+6.0,15.0,8.0,I don't know,Left-handed
+6.0,8.0,4.0,Right leg in first,Right-handed
+10.0,40.0,9.0,Right leg in first,Right-handed
+5.0,3.0,7.0,Left leg in first,Left-handed
+4.0,10.0,8.0,Left leg in first,Right-handed
+8.0,10.0,7.0,Right leg in first,Right-handed
+6.0,3.0,5.0,Right leg in first,Right-handed
+8.0,6.0,7.0,Right leg in first,Right-handed
+4.0,6.0,5.0,Right leg in first,Right-handed
+4.0,5.0,8.0,Right leg in first,Right-handed
+8.0,10.0,5.0,Right leg in first,Right-handed
+5.0,2.0,7.0,Right leg in first,Right-handed
+7.0,5.0,7.0,Right leg in first,Right-handed
+7.0,3.0,6.0,Right leg in first,Right-handed
+9.0,15.0,8.0,I don't know,Right-handed
+1.0,5.0,6.0,Left leg in first,Left-handed
+3.0,4.0,7.0,Left leg in first,Left-handed
+3.0,5.0,6.0,I don't know,Right-handed
+5.0,15.0,7.0,Left leg in first,Right-handed
+10.0,8.0,12.0,Right leg in first,Right-handed
+5.0,5.0,7.0,Right leg in first,Right-handed
+8.0,10.0,4.0,Right leg in first,Right-handed
+3.0,1.0,7.0,Right leg in first,Right-handed
+5.0,3.0,6.0,I don't know,Right-handed
+5.0,5.0,8.0,Left leg in first,Right-handed
+7.0,6.0,5.0,Right leg in first,Right-handed
+1.0,2.0,8.0,Right leg in first,Right-handed
+6.0,4.0,6.0,Left leg in first,Right-handed
+8.0,10.0,7.0,Right leg in first,Right-handed
+7.0,5.0,7.0,Right leg in first,Right-handed
+7.0,4.0,7.0,Left leg in first,Left-handed
+5.0,20.0,8.0,Right leg in first,Left-handed
+7.0,4.0,7.0,Right leg in first,Right-handed
+4.0,3.0,6.0,Right leg in first,Right-handed
+7.0,8.0,6.0,Left leg in first,Right-handed
+3.0,2.0,6.0,Left leg in first,Left-handed
+7.0,3.0,7.0,Left leg in first,Right-handed
+4.0,3.0,6.0,Right leg in first,Right-handed
+7.0,25.0,8.0,Left leg in first,Right-handed
+5.0,4.0,7.0,Right leg in first,Right-handed
+5.0,5.0,7.0,Right leg in first,Right-handed
+8.0,5.0,6.0,Right leg in first,Right-handed
+5.0,10.0,6.5,Right leg in first,Right-handed
+7.0,10.0,7.0,Right leg in first,Right-handed
+5.0,8.0,6.0,Right leg in first,Right-handed
+5.0,3.0,8.0,Left leg in first,Right-handed
+9.0,5.0,7.0,Right leg in first,Right-handed
+6.0,9.0,7.0,I don't know,Right-handed
+3.0,3.0,7.0,I don't know,Right-handed
+8.0,6.0,6.0,Right leg in first,Right-handed
+4.0,5.0,6.0,Right leg in first,Right-handed
+8.0,4.0,7.0,Right leg in first,Right-handed
+3.0,2.0,8.0,Right leg in first,Right-handed
+5.0,6.0,7.0,Right leg in first,Right-handed
+4.0,5.0,7.0,Right leg in first,Right-handed
+8.0,7.0,7.0,Right leg in first,Right-handed
+2.0,5.0,5.0,Left leg in first,Right-handed
+7.0,3.0,7.0,Right leg in first,Right-handed
+5.0,3.0,8.0,Left leg in first,Left-handed
+6.0,5.0,5.0,Left leg in first,Right-handed
+8.0,15.0,7.0,Right leg in first,Right-handed
+5.0,7.0,7.0,Right leg in first,Right-handed
+7.0,3.0,7.0,Right leg in first,Right-handed
+4.0,7.0,8.0,I don't know,Right-handed
+3.0,3.0,5.0,Left leg in first,Right-handed
+8.0,6.0,6.5,Right leg in first,Right-handed
+4.0,10.0,7.0,Right leg in first,Right-handed
+3.0,5.0,7.0,I don't know,Right-handed
+8.0,5.0,9.0,Right leg in first,Right-handed
+7.0,7.0,6.0,I don't know,Right-handed
+2.0,8.0,7.0,Left leg in first,Right-handed
+3.0,3.0,7.0,Right leg in first,Right-handed
+8.0,15.0,7.5,I don't know,Right-handed
+3.0,6.0,5.0,Left leg in first,Ambidextrous / It's Complicated
+7.0,4.0,6.0,Right leg in first,Right-handed
+7.0,25.0,6.0,I don't know,Right-handed
+4.0,5.0,8.0,Right leg in first,Right-handed
+5.0,4.0,6.0,Left leg in first,Right-handed
+3.0,2.0,7.0,Right leg in first,Right-handed
+7.0,5.0,7.0,I don't know,Right-handed
+7.0,5.0,8.0,Left leg in first,Right-handed
+8.0,6.0,7.0,Right leg in first,Right-handed
+6.0,5.0,5.0,Right leg in first,Right-handed
+6.0,7.0,7.0,Right leg in first,Right-handed
+4.0,3.0,7.0,Right leg in first,Right-handed
+8.0,5.0,8.0,Left leg in first,Right-handed
+9.0,10.0,7.0,Right leg in first,Right-handed
+5.0,7.0,6.0,Right leg in first,Right-handed
+6.0,2.0,8.0,I don't know,Right-handed
+7.0,5.0,5.0,Right leg in first,Right-handed
+4.0,25.0,7.0,Left leg in first,Right-handed
+1.0,2.0,5.0,Left leg in first,Right-handed
+2.0,10.0,5.0,I don't know,Right-handed
+5.0,2.0,7.5,Left leg in first,Ambidextrous / It's Complicated
+7.0,5.0,7.0,Left leg in first,Right-handed
+3.0,4.0,8.0,I don't know,Right-handed
+7.0,2.0,7.0,Right leg in first,Right-handed
+8.0,7.0,7.0,Right leg in first,Right-handed
+6.0,2.0,7.0,Right leg in first,Right-handed
+9.0,10.0,6.5,Left leg in first,Right-handed
+8.0,10.0,8.0,Left leg in first,Right-handed
+7.0,3.0,6.0,Right leg in first,Right-handed
+5.0,5.0,8.0,Right leg in first,Right-handed
+3.0,7.0,5.0,I don't know,Right-handed
+8.0,20.0,7.0,Right leg in first,Right-handed
+8.0,3.0,6.0,Left leg in first,Right-handed
+3.0,5.0,5.0,Right leg in first,Right-handed
+1.0,7.0,6.0,Right leg in first,Right-handed
+4.0,6.0,7.0,Left leg in first,Right-handed
+4.0,3.0,7.5,I don't know,Right-handed
+6.0,7.0,6.5,Left leg in first,Right-handed
+6.0,5.0,6.0,Right leg in first,Right-handed
+6.0,3.0,7.0,Right leg in first,Right-handed
+3.0,10.0,7.0,Left leg in first,Right-handed
+8.0,8.0,6.0,Left leg in first,Right-handed
+6.0,3.0,7.0,Right leg in first,Right-handed
+8.0,10.0,5.0,Right leg in first,Right-handed
+9.0,30.0,4.0,Right leg in first,Right-handed
+6.0,6.0,7.0,Left leg in first,Right-handed
+8.0,5.0,7.0,Right leg in first,Right-handed
+8.0,3.0,8.0,Left leg in first,Right-handed
+5.0,2.0,7.0,Right leg in first,Right-handed
+6.0,6.0,7.0,Right leg in first,Right-handed
+2.0,10.0,6.0,Left leg in first,Right-handed
+8.0,10.0,6.0,Right leg in first,Right-handed
+7.0,5.0,6.0,Right leg in first,Right-handed
+9.0,4.0,8.0,Right leg in first,Right-handed
+5.0,3.0,7.0,Right leg in first,Right-handed
+8.0,3.0,9.0,Left leg in first,Right-handed
+8.0,10.0,7.5,Right leg in first,Right-handed
+8.0,10.0,7.0,Right leg in first,Right-handed
+5.0,7.0,6.0,Left leg in first,Ambidextrous / It's Complicated
+6.0,3.0,7.0,Left leg in first,Right-handed
+3.0,5.0,8.0,I don't know,Right-handed
+4.0,4.0,5.0,I don't know,Right-handed
+6.0,7.0,7.0,I don't know,Right-handed
+7.0,4.0,6.0,Left leg in first,Left-handed
+7.0,6.0,7.0,Left leg in first,Right-handed
+5.0,4.0,8.0,I don't know,Right-handed
+9.0,20.0,6.0,Left leg in first,Right-handed
+7.0,9.0,6.0,Right leg in first,Right-handed
+4.0,8.0,7.5,Left leg in first,Right-handed
+7.0,5.0,8.0,Left leg in first,Right-handed
+5.0,20.0,9.0,Right leg in first,Right-handed
+3.0,6.0,7.0,Right leg in first,Right-handed
+9.0,3.0,9.0,Right leg in first,Right-handed
+9.0,3.0,8.0,Right leg in first,Right-handed
+4.0,2.0,8.0,Right leg in first,Right-handed
+8.0,20.0,7.0,Left leg in first,Left-handed
+8.0,15.0,6.0,Right leg in first,Right-handed
+7.0,16.0,6.0,Right leg in first,Right-handed
+5.0,10.0,5.0,Right leg in first,Right-handed
+6.0,3.0,6.0,Right leg in first,Right-handed
+7.0,5.0,7.0,Right leg in first,Right-handed
+5.0,15.0,8.0,Left leg in first,Left-handed
+3.0,2.0,7.0,Right leg in first,Right-handed
+4.0,1.0,6.0,Left leg in first,Right-handed
+8.0,30.0,7.0,Right leg in first,Right-handed
+4.0,4.0,6.0,Right leg in first,Right-handed
+6.0,5.0,6.0,Right leg in first,Right-handed
+5.0,10.0,8.0,Left leg in first,Right-handed
+5.0,6.0,7.0,Left leg in first,Right-handed
+5.0,10.0,8.0,Left leg in first,Right-handed
+7.0,6.0,6.0,Right leg in first,Right-handed
+1.0,7.0,8.0,Left leg in first,Right-handed
+9.0,8.0,7.0,Left leg in first,Right-handed
+8.0,15.0,6.0,I don't know,Right-handed
+8.0,8.0,6.0,Right leg in first,Right-handed
+7.0,30.0,6.0,Right leg in first,Left-handed
+8.0,3.0,6.0,Left leg in first,Right-handed
+7.0,4.0,6.0,Left leg in first,Left-handed
+5.0,3.0,8.0,Right leg in first,Left-handed
+5.0,35.0,7.0,Right leg in first,Right-handed
+5.0,5.0,7.0,Right leg in first,Right-handed
+5.0,7.0,7.0,Right leg in first,Right-handed
+8.0,5.0,6.0,Right leg in first,Right-handed
+8.0,30.0,6.0,Left leg in first,Right-handed
+6.0,8.0,8.5,Right leg in first,Right-handed
+4.0,1.0,5.0,Right leg in first,Right-handed
+7.0,12.0,7.0,I don't know,Right-handed
+9.0,8.0,7.0,Right leg in first,Left-handed
+7.0,10.0,6.5,Right leg in first,Right-handed
+4.0,5.0,8.0,I don't know,Left-handed
+6.0,4.0,7.0,Right leg in first,Right-handed
+7.0,3.0,6.0,Left leg in first,Right-handed
+3.0,2.0,6.0,Right leg in first,Right-handed
+3.0,5.0,6.0,Right leg in first,Left-handed
+4.0,1.0,6.0,Right leg in first,Right-handed
+3.0,4.0,6.0,Left leg in first,Right-handed
+9.0,5.0,8.0,Right leg in first,Right-handed
+7.0,6.0,8.0,I don't know,Right-handed
+6.0,10.0,7.0,Right leg in first,Right-handed
+8.0,2.0,6.0,Left leg in first,Right-handed
+7.0,5.0,5.0,Right leg in first,Ambidextrous / It's Complicated
