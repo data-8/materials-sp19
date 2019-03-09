@@ -6,7 +6,8 @@ test = {
       'cases': [
         {
           'code': r"""
-          >>> type(observed_test_stat) == float
+          >>> import numpy as np
+          >>> type(observed_test_stat) == float or type(observed_test_stat) == np.float64
           True
           """,
           'hidden': False,
