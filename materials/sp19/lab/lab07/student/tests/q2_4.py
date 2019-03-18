@@ -1,12 +1,12 @@
 test = {
-  'name': 'q2_2',
+  'name': 'q2_4',
   'points': 1,
   'suites': [
     {
       'cases': [
         {
           'code': r"""
-          >>> type(observed_test_stat) == float or type(observed_test_stat) == np.float64
+          >>> 118 < np.mean(bootstrap_mean_based_estimates) < 126
           True
           """,
           'hidden': False,

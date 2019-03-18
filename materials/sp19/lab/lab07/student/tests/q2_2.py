@@ -6,7 +6,7 @@ test = {
       'cases': [
         {
           'code': r"""
-          >>> type(observed_test_stat) == float or type(observed_test_stat) == np.float64
+          >>> set(true_statements) == set([2, 3, 4])
           True
           """,
           'hidden': False,

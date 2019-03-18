@@ -1,12 +1,12 @@
 test = {
-  'name': 'q2_2',
+  'name': 'q1_3',
   'points': 1,
   'suites': [
     {
       'cases': [
         {
           'code': r"""
-          >>> type(observed_test_stat) == float or type(observed_test_stat) == np.float64
+          >>> max_estimate == 135
           True
           """,
           'hidden': False,

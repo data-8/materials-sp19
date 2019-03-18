@@ -1,12 +1,20 @@
 test = {
-  'name': 'q2_2',
+  'name': 'q2_3',
   'points': 1,
   'suites': [
     {
       'cases': [
         {
           'code': r"""
-          >>> type(observed_test_stat) == float or type(observed_test_stat) == np.float64
+          >>> len(example_estimates) == 10000
+          True
+          """,
+          'hidden': False,
+          'locked': False
+        },
+        {
+          'code': r"""
+          >>> 900 < np.mean(example_estimates) < 1100
           True
           """,
           'hidden': False,
