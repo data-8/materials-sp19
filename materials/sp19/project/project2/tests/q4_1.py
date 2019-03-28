@@ -23,8 +23,8 @@ test = {
         {
           'code': r"""
           >>> # Make sure you label your columns properly.;
-          >>> set(np.sort(HERS.labels))
-          {'CHD', 'HRT'}
+          >>> set(HERS.labels) == set(['HRT', 'CHD'])
+          True
           """,
           'hidden': False,
           'locked': False
