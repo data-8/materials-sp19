@@ -1,5 +1,5 @@
 test = {
-  'name': 'Question 1_3',
+  'name': 'q1_3',
   'points': 1,
   'suites': [
     {
@@ -11,15 +11,7 @@ test = {
           """,
           'hidden': False,
           'locked': False
-        },
-        {
-          'code': r"""
-          >>> np.allclose(fit_line(faithful), np.array([ 10.7296414 ,  33.47439702]))
-          True
-          """,
-          'hidden': True,
-          'locked': False
-        },
+        }
       ],
       'scored': True,
       'setup': '',

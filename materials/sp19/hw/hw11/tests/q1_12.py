@@ -1,13 +1,12 @@
 test = {
-  'name': 'Question 1_12',
+  'name': 'q1_12',
   'points': 1,
   'suites': [
     {
       'cases': [
         {
           'code': r"""
-          >>> # Your choice should be one of the options
-          >>> type(question_12_choice) == list
+          >>> lower_bound > 80
           True
           """,
           'hidden': False,
@@ -15,12 +14,12 @@ test = {
         },
         {
           'code': r"""
-          >>> question_12_choice == [3]
+          >>> upper_bound < 120
           True
           """,
-          'hidden': True,
+          'hidden': False,
           'locked': False
-        },
+        }
       ],
       'scored': True,
       'setup': '',
