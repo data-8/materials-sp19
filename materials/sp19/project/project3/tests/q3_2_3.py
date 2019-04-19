@@ -17,6 +17,9 @@ test = {
         },
         {
           'code': r"""
+          >>> def check(r):
+          ...     t = test_20.row(r)
+          ...     return classify(t, train_20, train_movies.column('Genre'), 11) == classify_feature_row(t);
           >>> check(1)
           True
           """,
@@ -25,6 +28,9 @@ test = {
         },
         {
           'code': r"""
+          >>> def check(r):
+          ...     t = test_20.row(r)
+          ...     return classify(t, train_20, train_movies.column('Genre'), 11) == classify_feature_row(t);
           >>> check(2)
           True
           """,
@@ -33,6 +39,9 @@ test = {
         },
         {
           'code': r"""
+          >>> def check(r):
+          ...     t = test_20.row(r)
+          ...     return classify(t, train_20, train_movies.column('Genre'), 11) == classify_feature_row(t);
           >>> check(3)
           True
           """,
@@ -41,6 +50,9 @@ test = {
         },
         {
           'code': r"""
+          >>> def check(r):
+          ...     t = test_20.row(r)
+          ...     return classify(t, train_20, train_movies.column('Genre'), 11) == classify_feature_row(t);
           >>> check(4)
           True
           """,
@@ -49,6 +61,9 @@ test = {
         },
         {
           'code': r"""
+          >>> def check(r):
+          ...     t = test_20.row(r)
+          ...     return classify(t, train_20, train_movies.column('Genre'), 11) == classify_feature_row(t);
           >>> check(5)
           True
           """,
@@ -57,6 +72,9 @@ test = {
         },
         {
           'code': r"""
+          >>> def check(r):
+          ...     t = test_20.row(r)
+          ...     return classify(t, train_20, train_movies.column('Genre'), 11) == classify_feature_row(t);
           >>> check(6)
           True
           """,
@@ -65,6 +83,9 @@ test = {
         },
         {
           'code': r"""
+          >>> def check(r):
+          ...     t = test_20.row(r)
+          ...     return classify(t, train_20, train_movies.column('Genre'), 11) == classify_feature_row(t);
           >>> check(7)
           True
           """,
@@ -73,6 +94,9 @@ test = {
         },
         {
           'code': r"""
+          >>> def check(r):
+          ...     t = test_20.row(r)
+          ...     return classify(t, train_20, train_movies.column('Genre'), 11) == classify_feature_row(t);
           >>> check(8)
           True
           """,
@@ -81,6 +105,9 @@ test = {
         },
         {
           'code': r"""
+          >>> def check(r):
+          ...     t = test_20.row(r)
+          ...     return classify(t, train_20, train_movies.column('Genre'), 11) == classify_feature_row(t);
           >>> check(9)
           True
           """,
@@ -89,6 +116,9 @@ test = {
         },
         {
           'code': r"""
+          >>> def check(r):
+          ...     t = test_20.row(r)
+          ...     return classify(t, train_20, train_movies.column('Genre'), 11) == classify_feature_row(t);
           >>> check(10)
           True
           """,
